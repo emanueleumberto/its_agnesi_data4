@@ -122,7 +122,7 @@ else:
 
 # Il programma deve:
 # Chiedere all’utente: nome, cognome, età
-#Eseguire le seguenti operazioni:
+# Eseguire le seguenti operazioni:
 # - Convertire l’età da stringa a intero
 # - Calcolare la lunghezza del nome e cognome
 # Trasformare:
