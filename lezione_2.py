@@ -70,3 +70,31 @@ elif a == b:
     print("A è uguale a B")
 else:
     print("A è minore di B")
+    
+# Strutture iterative
+# - WHILE
+#   while condizione:
+#       blocco di istruzioni
+
+num = 0
+if num < 5:
+    print("blocco di istruzioni IF")
+
+
+while num < 5: 
+    print("blocco di istruzioni WHILE")
+    num += 1
+  
+while True:
+    scelta = input("Inserisci il tuo nome oppure fine per terminare: ")
+    if scelta == "fine":
+        break
+    
+    print(f"Ciao {scelta}")
+    
+print("FINE")
+
+
+# - FOR
+#   for ele in iterable:
+#       blocco di istruzioni
