@@ -80,7 +80,6 @@ print(l)
 l.sort(reverse=True)
 print(l)
 
-
 print("-----------------------------------------------------")
 # Copiare una lista
 nl = l # errore non sto facendo una copia ma leggo la stessa lista 
