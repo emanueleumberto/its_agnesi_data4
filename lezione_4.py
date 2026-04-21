@@ -60,40 +60,4 @@ for ele in t:
     print(ele)
 
 
-# Crea una tupla chiamata persona contenente le seguenti informazioni:
-# nome, cognome, età, città
-# Stampa l'intera tupla
-# Stampa separatamente ciascun elemento della tupla(Uno per riga)
-# inserendo una etichetta chiara (Nome: , Cognome: ...)
-# verifica se l'età è maggiore o uguale a 18 e stampa un messaggio 
-# adeguato (La persona nome cognome è maggiorenne oppure minorenne)
 
-persona = ("Mario", "Rossi", 25, "Roma")
-print(persona)
-(nome, cognome, eta, citta) = persona
-print(f"Nome: {nome}, Cognome: {cognome}, Età: {eta}, Città: {citta}")
-if(eta >= 18):
-    print(f"La persona {nome} {cognome} è maggiorenne")
-else:
-    print(f"La persona {nome} {cognome} è minorenne")
-    
-
-# Un piccolo negozio di libri desidera gestire il proprio catalogo 
-# in maniera semplice. 
-# Ogni libro è rappresentato da una tupla contenente le seguenti 
-# informazioni: 
-# (titolo: str, autore: str, anno_pubblicazione: int, prezzo: float)
-# Scrivi uno script Python che soddisfi i seguenti requisiti:
-# - Crea una lista di almeno 5 libri, ciascuno rappresentato 
-#   come una tupla nel formato sopra indicato.
-# - Stampa tutti i libri presenti nel catalogo, uno per riga, 
-#   formattando le informazioni in modo leggibile 
-#   (es. “Titolo: ..., Autore: ..., Anno: ..., Prezzo: ...”).
-# - Chiedi all’utente un anno, quindi stampa tutti i libri 
-#   pubblicati dopo quell’anno.
-# - Chiedi all’utente il nome di un autore e mostra 
-#   tutti i libri scritti da quell’autore.
-# - Calcola e stampa il prezzo medio dei libri presenti nel catalogo.
-# - Trova e stampa il libro più costoso nel catalogo.
-# - Poiché le tuple sono immutabili, spiega in un commento come 
-#   potresti aggiornare il prezzo di un libro 
