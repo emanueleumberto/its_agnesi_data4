@@ -6,11 +6,11 @@
 # è possibile inserire un elemento in un set con il metodo add()
 # è possibile rimuovere elementi da un set remove(val) | pop() | del l | clear()
 # è possibile copiare un set ns = s.copy() | ns = set(s)
-# è possibile unire due o più set con union()
+# è possibile unire due o più set con union() o |
 #   Creare un nuovo set con tutti i dati presenti nei set uniti ma senza duplicati (Full Join)
-# è possibile unire due o più set con intersection()
+# è possibile unire due o più set con intersection() o &
 #   Creare un nuovo set con tutti i dati comuni presenti nei set (Inner Join)
-# è possibile unire due o più set con difference()
+# è possibile unire due o più set con difference() o -
 #   Creare un nuovo set con tutti i dati presenti nel set principale (Left Join)
 # è possibile unire due o più set con symmetric_difference()
 #   Creare un nuovo set con tutti i dati NON comuni presenti nei set (Contrario Inner Join)
