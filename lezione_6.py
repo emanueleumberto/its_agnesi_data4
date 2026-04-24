@@ -1,5 +1,5 @@
 # Funzione Custom in Python 
-# Serve per creare un blocco di istruzioni riutilizzabile più volte
+# Serve per creare un blocco di istruzioni a cui assegno un nome riutilizzabile più volte
 # Per creare una funzione si utilizza l'operatore def
 # def nomeFunc(?params): blocco di istruzioni
 # per eseguire una funzione senza paramentri -> nomeFunc()
@@ -36,10 +36,8 @@ def sommaTutto(*nums):
     print(f"La somma totale è {acc}")
     return acc
     
-    
+# print(acc) Errore, non posso accedere ad un variabile definita in una funzione (scope locale)   
 res1 = sommaTutto(3,5,8,0)
 res2 = sommaTutto(3,5,1,4,7,9,3,5)
 print(sommaTutto(res1, res2))
-
-
 
