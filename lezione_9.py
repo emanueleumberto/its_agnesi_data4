@@ -49,15 +49,40 @@ import sys
 # Python ha un limite di profondità dello stack
 print(sys.getrecursionlimit())
 
+# Comprehensions in python
+# permettono di creare collezioni di dati in modo:
+# -> Compatto
+# -> leggibile
+# -> efficiente
 
-# Contare le occorrenze di un elemento
-# Scrivere una funzione ricorsiva che conti quante volte un valore appare in una lista.
-# Scrivi una funzione -> def conta_elemento(lista, valore) che:
-# ✔ restituisce il numero di volte in cui valore compare nella lista
-# ✔ utilizza la ricorsione
-# ❌ non usare .count()
+# è una sintassi compatta per creare collezioni come Liste, Set, Dizionari partendo da un iterabile 
+# è un'alternativa più concisa al ciclo for
 
-# Caso base: lista vuota → ritorna 0
-# Caso ricorsivo: se il primo elemento è uguale a valore → +1 poi continua con il resto della lista
+# List Comprehension
+# [expression for item in iterable if condition]
+numeri = [1,2,3,4,5]
 
-# Debug richiesto -> Aggiungi logging per capire il flusso della funzione ricorsiva
+# Soluzione utilizzando un ciclo For
+quadrati = []
+for val in numeri:
+    q = val**2
+    quadrati.append(q)
+
+print(quadrati)
+
+# Soluzione utilizzando List Comprehension
+quadrati = [val**2 for val in numeri]
+print(quadrati)
+
+# Con utilizzo di una condizione
+pari = [val for val in numeri if val % 2 == 0]
+print(pari)
+
+# Con utilizzo di if-else
+elementi = ["pari" if val % 2 == 0 else "dispari" for val in numeri]
+print(elementi)
+
+
+
+
+
