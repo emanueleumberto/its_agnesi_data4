@@ -37,6 +37,14 @@ import logging as log
 # logger = log.getLogger('app_logger')
 # logger.setLevel(log.DEBUG)
 
+# logging.basicConfig(
+#     level=logging.ERROR,
+#     format="%(levelname)s - %(message)s",
+#     force=True
+#     )
+
+# print(logging.getLogger().level) # Valore numerico del log impostato
+
 # logger.debug("Messaggio di Debug")
 # logger.info("Messaggio di Info")
 # logger.warning("Messaggio di Warning")
