@@ -134,32 +134,3 @@ scontati = {k:v*0.9 for k,v in prezzi.items()}
 print(prezzi)
 print(scontati)
 
-# Hai una lista di studenti rappresentati come dizionari:
-studenti = [
-    {"nome": "Luca", "voto": 28},
-    {"nome": "Anna", "voto": 17},
-    {"nome": "Marco", "voto": 30},
-    {"nome": "Giulia", "voto": 22},
-    {"nome": "Paolo", "voto": 18},
-    {"nome": "Sara", "voto": 15},
-    {"nome": "Mario", "voto": 22}
-]
-
-# List Comprehension
-# Crea una lista contenente solo i nomi degli studenti sufficienti (voto ≥ 18)
-# Crea una lista con i voti aumentati di 1 punto, ma solo per chi ha voto ≥ 18
-# Crea una lista di stringhe nel formato: "Nome - Promosso/Bocciato"
-
-# Set Comprehension
-# Crea un set con tutti i voti unici
-# Crea un set contenente solo i voti insufficienti
-
-# Dictionary Comprehension
-# Crea un dizionario: {nome: voto}
-# Crea un dizionario contenente solo gli studenti promossi
-# Crea un dizionario: {nome: "Eccellente" | "Buono" | "Sufficiente" | "Insufficiente"}
-# usando le seguenti regole:
-# ≥ 27 → Eccellente
-# ≥ 21 → Buono
-# ≥ 18 → Sufficiente
-# < 18 → Insufficiente

@@ -71,6 +71,26 @@ elif a == b:
 else:
     print("A è minore di B")
     
+# Match-Case
+# match espressione
+#     case valore: blocco di istruzioni
+#     ....
+#     case valore: blocco di istruzioni
+#     case _: blocco di istruzioni
+
+day = 2
+match day:
+    case 1:
+        print('Oggi è Lunedi.')
+    case 2:
+        print('Oggi è Martedi.')
+    case 3:
+        print('Oggi è Mercoledi.')
+    case _:
+        print('Hai inserito un valore errato') # Default case
+
+
+
 # Strutture iterative
 # - WHILE
 #   while condizione:
