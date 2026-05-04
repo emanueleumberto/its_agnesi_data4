@@ -39,11 +39,14 @@
 # •	Polimorfismo
 # •	Astrazione
 
+# In python non esistono dei veri modificatori di accesso come in Java, c++
+# Si usano per convenzione
+
 # Incapsulamento è uno dei principi fondamentali della OOP
-# Consiste nel nascondere i dati interni
+# Consiste nel nascondere i dati interni (Ma NON sono realmente protetti)
 # e permettere l'accesso ai dati solo tramite dei metodi controllati.
 # Obiettivo: proteggere lo stato interno di un oggetto
-# evitare modifiche non valide
+# evitare modifiche non valide (Convenzione)
 # Rendere così il codice più sicuro e manutenibile
 
 # Convenzioni e Sintassi per rappresentare un attributo public, protected, private:
