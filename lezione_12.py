@@ -133,3 +133,5 @@ forma1 = Rettangolo(25, 5)
 forma2 = Cerchio(5)
 forma3 = Forma() # TypeError
 
+print('Fine')
+
