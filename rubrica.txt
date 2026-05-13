@@ -1,0 +1,3 @@
+Mario,Rossi,mario.rossi@example.com,123456789
+Giuseppe,Verdi,g.verdi@example.com,987654321
+Francesca,Neri,f.neri@example.com,1122334455
