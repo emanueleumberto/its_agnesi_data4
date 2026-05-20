@@ -87,6 +87,9 @@ def elimina_utente(utente):
 
 # crea_tabella_users()
 # aggiungi_utente()
-mario = leggi_utente(1)
+# mario = leggi_utente(1)
 # lista = leggi_tutto()
 # modifica_utente(mario)
+
+cursor.close()
+db.close()
