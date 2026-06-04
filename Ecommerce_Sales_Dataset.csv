@@ -1,0 +1,1021 @@
+OrderID,CustomerID,ProductName,Category,Quantity,UnitPrice,OrderDate,City,PaymentMethod,Discount
+10001,1117,Console,Gaming,5,668.89,2025-02-13,Bari,Carta,20.0
+10002,1125,Aspirapolvere,Casa,5,977.43,2025-01-28,Napoli,Carta,17.0
+10003,1120,Manuale Python,Libri,10,319.34,2025-06-21,Bari,Carta,37.0
+10004,1035,Laptop,Elettronica,5,195.84,2025-11-04,Bologna,Contrassegno,7.0
+10005,1008,Monitor,Elettronica,4,763.63,2025-08-07,Roma,PayPal,25.0
+10006,1020,Joystick,Gaming,5,919.24,2025-10-02,Milano,Carta,31.0
+10007,1021,Smartphone,Elettronica,2,899.24,2025-12-03,Firenze,PayPal,19.0
+10008,1021,Bicicletta,Sport,1,256.09,2025-12-26,Firenze,Bonifico,22.0
+10009,1058,Monitor,Elettronica,10,627.71,2025-04-08,Roma,PayPal,
+10010,1090,Smartphone,Elettronica,2,848.07,2025-07-13,Roma,,13.0
+10011,1100,Console,Gaming,5,254.21,2025-05-25,Roma,Contrassegno,-10.0
+10012,1007,Smartphone,Elettronica,10,237.63,2025-12-11,Napoli,Bonifico,16.0
+10013,1196,Aspirapolvere,Casa,1,565.59,2025-01-15,Roma,Carta,19.0
+10014,1130,Tablet,Elettronica,5,499.38,2025-08-23,Milano,PayPal,37.0
+10015,1180,Romanzo,Libri,2,139.47,2025-10-02,Bologna,PayPal,22.0
+10016,1103,Romanzo,Libri,9,645.34,2025-11-15,Palermo,Contrassegno,25.0
+10017,1149,Giacca,Abbigliamento,10,38.35,2025-10-15,Palermo,Contrassegno,39.0
+10018,1158,Tostapane,Casa,2,61.08,2025-03-13,Roma,Bonifico,4.0
+10019,1181,Smartphone,Elettronica,9,790.24,2025-01-25,Milano,Carta,19.0
+10020,1027,Console,Gaming,5,57.21,2025-10-25,Firenze,PayPal,37.0
+10021,1121,Bicicletta,Sport,5,264.35,2025-01-07,Torino,Carta,20.0
+10022,1053,Cuffie Gaming,Gaming,2,545.87,2025-10-06,Torino,PayPal,23.0
+10023,1159,Joystick,Gaming,5,814.74,2025-03-10,Bologna,Contrassegno,18.0
+10024,1164,Tostapane,Casa,4,74.92,2025-02-24,Bari,Bonifico,0.0
+10025,1068,Tablet,Elettronica,8,701.95,2025-01-18,Bari,Contrassegno,20.0
+10026,1111,Bicicletta,Sport,5,0.0,2025-11-19,Bologna,Carta,38.0
+10027,1026,Felpa,Abbigliamento,10,333.88,2025-08-16,Firenze,Contrassegno,
+10028,1172,Aspirapolvere,Casa,3,716.49,2025-06-19,Milano,PayPal,8.0
+10029,1104,Felpa,Abbigliamento,10,643.31,2025-03-07,Milano,Carta,40.0
+10030,1170,Lampada,Casa,7,480.83,2025-04-20,Bologna,,21.0
+10031,1080,Tostapane,Casa,5,149.46,2025-07-19,Bari,PayPal,33.0
+10032,1039,Joystick,Gaming,3,411.05,2025-02-10,Bologna,Carta,28.0
+10033,1173,Joystick,Gaming,9,197.26,2025-05-27,Torino,Bonifico,36.0
+10034,1149,Bicicletta,Sport,1,110.3,2025-08-01,Bari,Contrassegno,35.0
+10035,1198,Tostapane,Casa,4,363.99,2025-12-09,Milano,Carta,0.0
+10036,1092,Aspirapolvere,Casa,5,416.51,2025-08-26,Bari,PayPal,7.0
+10037,1043,Monitor,Elettronica,6,973.0,2025-05-12,Milano,Carta,150.0
+10038,1105,Felpa,Abbigliamento,1,566.96,2025-11-05,Bologna,Carta,32.0
+10039,1015,Bicicletta,Sport,5,39.22,2025-08-15,Milano,PayPal,31.0
+10040,1000,Cuffie Gaming,Gaming,3,250.02,2025-10-08,Napoli,PayPal,
+10041,1154,Tapis Roulant,Sport,8,815.6,2025-04-10,Torino,PayPal,38.0
+10042,1029,Tablet,Elettronica,8,832.68,2025-12-09,Napoli,Contrassegno,19.0
+10043,1174,Tapis Roulant,Sport,8,419.64,2025-06-21,Bologna,,1.0
+10044,1073,Console,Gaming,2,966.22,2025-11-12,Milano,PayPal,28.0
+10045,1188,Smartphone,Elettronica,9,163.84,2025-08-01,Firenze,Bonifico,13.0
+10046,1053,Manuale Python,Libri,7,516.83,2025-03-07,Milano,Contrassegno,28.0
+10047,1094,Aspirapolvere,Casa,6,471.91,2025-09-03,Roma,Bonifico,3.0
+10048,1069,Cuffie Gaming,Gaming,1,611.74,2025-05-22,Milano,,29.0
+10049,1051,Cuffie Gaming,Gaming,4,727.76,2025-10-04,Roma,Bonifico,10.0
+10050,1187,Jeans,Abbigliamento,4,961.26,2025-06-07,Palermo,PayPal,7.0
+10051,1184,Joystick,Gaming,2,168.32,2025-10-25,Bari,Carta,37.0
+10052,1112,Console,Gaming,3,492.29,2025-07-21,Roma,PayPal,0.0
+10053,1020,Thriller,Libri,4,124.62,2025-07-06,Torino,Bonifico,10.0
+10054,1164,Manuale Python,Libri,9,56.47,2025-01-21,Firenze,Bonifico,23.0
+10055,1177,Tapis Roulant,Sport,7,466.87,2025-12-13,Milano,Bonifico,9.0
+10056,1055,Thriller,Libri,10,266.39,2025-02-08,Firenze,Bonifico,20.0
+10057,1193,Cuffie Gaming,Gaming,1,572.61,2025-06-26,Torino,,29.0
+10058,1016,Tostapane,Casa,5,319.66,2025-05-25,Bari,PayPal,33.0
+10059,1061,Romanzo,Libri,8,134.67,2025-03-25,Napoli,Bonifico,12.0
+10060,1162,Thriller,Libri,9,942.59,2025-09-05,,Contrassegno,21.0
+10061,1054,Lampada,Casa,9,724.3,2025-03-10,Napoli,PayPal,35.0
+10062,1067,Tablet,Elettronica,10,18.29,2025-09-21,Bari,Carta,150.0
+10063,1195,Lampada,Casa,9,693.91,2025-07-26,Bologna,Contrassegno,21.0
+10064,1124,Felpa,Abbigliamento,2,530.1,2025-01-22,Torino,Bonifico,22.0
+10065,1083,Aspirapolvere,Casa,10,835.35,2025-02-26,Bari,PayPal,4.0
+10066,1151,Joystick,Gaming,5,790.8,2025-02-23,Torino,Bonifico,23.0
+10067,1155,Tablet,Elettronica,10,654.47,2025-11-28,Bologna,,28.0
+10068,1184,Tablet,Elettronica,3,197.93,2025-06-19,Palermo,PayPal,36.0
+10069,1082,Cuffie Gaming,Gaming,4,740.14,2025-03-12,Roma,Bonifico,35.0
+10070,1030,Felpa,Abbigliamento,8,417.29,2025-07-04,Napoli,Contrassegno,20.0
+10071,1138,Romanzo,Libri,-1,185.07,2025-10-02,Palermo,,11.0
+10072,1129,Giacca,Abbigliamento,3,968.71,2025-09-21,Napoli,Contrassegno,0.0
+10073,1068,Felpa,Abbigliamento,7,347.36,2025-09-22,Firenze,Bonifico,38.0
+10074,1178,Bicicletta,Sport,9,497.34,2025-04-19,Roma,Carta,1.0
+10075,1192,Thriller,Libri,7,613.54,2025-10-11,Palermo,Contrassegno,22.0
+10076,1102,Laptop,Elettronica,4,428.39,2025-01-30,Bari,Contrassegno,11.0
+10077,1155,Manubri,Sport,7,275.62,2025-01-05,,PayPal,2.0
+10078,1002,Joystick,Gaming,2,799.14,2025-11-18,Firenze,Carta,35.0
+10079,1154,Giacca,Abbigliamento,6,658.85,2025-06-14,Bologna,Contrassegno,36.0
+10080,1051,Laptop,Elettronica,4,157.57,2025-08-19,Napoli,Carta,11.0
+10081,1160,Cuffie Gaming,Gaming,10,827.87,2025-08-03,Milano,Carta,21.0
+10082,1130,Joystick,Gaming,10,351.18,2025-05-03,Palermo,Bonifico,40.0
+10083,1060,Romanzo,Libri,6,466.28,2025-11-11,Napoli,Contrassegno,31.0
+10084,1052,Lampada,Casa,1,902.87,2025-10-23,Bologna,PayPal,31.0
+10085,1051,Laptop,Elettronica,6,938.57,2025-12-03,Firenze,PayPal,21.0
+10086,1193,Aspirapolvere,Casa,9,644.85,2025-10-09,Bari,Contrassegno,6.0
+10087,1030,Thriller,Libri,10,24.98,2025-06-22,Bologna,Contrassegno,12.0
+10088,1200,Tostapane,Casa,7,898.74,2025-05-04,Firenze,PayPal,33.0
+10089,1031,Cuffie Gaming,Gaming,5,583.91,2025-12-20,Firenze,Bonifico,4.0
+10090,1126,Aspirapolvere,Casa,8,28.26,2025-11-12,Milano,Contrassegno,18.0
+10091,1085,Felpa,Abbigliamento,3,703.11,2025-08-27,Bari,,11.0
+10092,1040,Tostapane,Casa,3,997.51,2025-07-05,Palermo,Contrassegno,38.0
+10093,1100,Monitor,Elettronica,7,261.66,2025-08-20,Napoli,Carta,16.0
+10094,1088,Cuffie Gaming,Gaming,10,335.16,2025-11-22,Torino,,14.0
+10095,1091,Jeans,Abbigliamento,2,821.98,2025-12-07,Palermo,Carta,2.0
+10096,1195,Aspirapolvere,Casa,6,947.94,2025-09-05,Napoli,Bonifico,-10.0
+10097,1064,Thriller,Libri,10,234.18,2025-06-02,,Carta,10.0
+10098,1061,Giacca,Abbigliamento,9,919.88,2025-02-07,Napoli,PayPal,
+10099,1069,Bicicletta,Sport,7,423.13,2025-05-07,Palermo,Carta,9.0
+10100,1119,Monitor,Elettronica,10,756.76,2025-09-05,Palermo,PayPal,13.0
+10101,1157,Felpa,Abbigliamento,1,469.73,2025-10-17,Bologna,,18.0
+10102,1062,Giacca,Abbigliamento,4,453.66,2025-07-02,,PayPal,9.0
+10103,1108,Thriller,Libri,1,854.31,2025-03-14,Milano,Carta,16.0
+10104,1077,Lampada,Casa,6,638.31,2025-06-26,Milano,Carta,3.0
+10105,1108,Romanzo,Libri,1,270.48,2025-12-13,Firenze,Contrassegno,7.0
+10106,1129,Tapis Roulant,Sport,9,900.17,2025-04-01,Palermo,Carta,34.0
+10107,1030,Giacca,Abbigliamento,2,163.44,2025-02-16,Bari,Contrassegno,6.0
+10108,1002,Manuale Python,Libri,4,316.61,2025-04-29,Bologna,Contrassegno,14.0
+10109,1135,Jeans,Abbigliamento,8,31.85,2025-06-22,Torino,Bonifico,6.0
+10110,1053,Manubri,Sport,2,921.69,2025-03-06,Torino,Bonifico,21.0
+10111,1063,Manuale Python,Libri,8,941.85,2025-03-14,Bari,Contrassegno,31.0
+10112,1001,Console,Gaming,3,194.36,2025-01-19,Roma,Carta,31.0
+10113,1138,Tapis Roulant,Sport,8,226.04,2025-11-21,Bologna,Contrassegno,39.0
+10114,1102,Cuffie Gaming,Gaming,8,683.0,2025-10-13,Roma,Bonifico,19.0
+10115,1123,Tostapane,Casa,4,593.61,2025-03-04,Bari,PayPal,4.0
+10116,1075,Felpa,Abbigliamento,7,403.22,2025-06-26,Palermo,PayPal,6.0
+10117,1159,Cuffie Gaming,Gaming,4,709.31,2025-06-01,Firenze,Carta,29.0
+10118,1016,Cuffie Gaming,Gaming,3,684.18,2025-12-16,Roma,Bonifico,17.0
+10119,1161,Tablet,Elettronica,3,911.53,2025-02-25,Bari,PayPal,34.0
+10120,1185,Joystick,Gaming,1,356.66,2025-04-02,Bologna,Bonifico,15.0
+10121,1049,Manuale Python,Libri,4,242.99,2025-09-15,Roma,Carta,24.0
+10122,1033,Jeans,Abbigliamento,3,466.1,2025-05-24,Napoli,PayPal,14.0
+10123,1092,Thriller,Libri,2,204.81,2025-05-22,Firenze,Bonifico,
+10124,1200,Romanzo,Libri,8,182.34,2025-05-20,Palermo,PayPal,18.0
+10125,1063,Aspirapolvere,Casa,3,80.92,2025-10-20,Milano,PayPal,22.0
+10126,1153,Thriller,Libri,10,892.99,2025-03-31,Bologna,PayPal,14.0
+10127,1050,Monitor,Elettronica,8,642.1,2025-06-05,Firenze,Contrassegno,8.0
+10128,1090,Tapis Roulant,Sport,7,34.76,2025-02-19,Milano,Carta,7.0
+10129,1059,Manuale Python,Libri,4,44.68,2025-09-22,Bologna,PayPal,21.0
+10130,1142,Cuffie Gaming,Gaming,10,777.38,2025-11-13,Roma,Bonifico,26.0
+10131,1145,Thriller,Libri,6,679.37,2025-04-24,Palermo,PayPal,
+10132,1033,Manuale Python,Libri,1,385.25,2025-04-21,Roma,Contrassegno,22.0
+10133,1150,Bicicletta,Sport,2,220.94,2025-09-29,Palermo,Contrassegno,40.0
+10134,1183,Jeans,Abbigliamento,8,658.21,2025-07-08,Palermo,PayPal,18.0
+10135,1017,Cuffie Gaming,Gaming,5,711.06,2025-02-15,Milano,PayPal,27.0
+10136,1187,Cuffie Gaming,Gaming,3,735.12,2025-02-21,Roma,Contrassegno,1.0
+10137,1166,Tostapane,Casa,3,915.16,2025-06-09,,Bonifico,14.0
+10138,1026,Jeans,Abbigliamento,2,820.18,2025-03-12,Bologna,Contrassegno,16.0
+10139,1198,Thriller,Libri,3,805.92,2025-08-04,Bologna,Carta,5.0
+10140,1139,Lampada,Casa,5,95.99,2025-06-17,,Carta,20.0
+10141,1070,Tostapane,Casa,7,718.2,2025-11-21,Firenze,Contrassegno,9.0
+10142,1024,Romanzo,Libri,3,686.01,2025-11-23,Palermo,PayPal,19.0
+10143,1022,Bicicletta,Sport,8,789.1,2025-09-09,Milano,Contrassegno,8.0
+10144,1109,Lampada,Casa,7,472.66,2025-07-01,Napoli,PayPal,9.0
+10145,1033,Bicicletta,Sport,3,232.91,2025-10-03,Napoli,Contrassegno,34.0
+10146,1155,Jeans,Abbigliamento,4,188.29,2025-12-14,Bologna,Contrassegno,6.0
+10147,1066,Giacca,Abbigliamento,3,782.39,2025-09-22,Bari,PayPal,13.0
+10148,1152,Felpa,Abbigliamento,6,987.12,2025-11-24,Palermo,Contrassegno,2.0
+10149,1115,Monitor,Elettronica,3,256.61,2025-12-10,Milano,Bonifico,9.0
+10150,1131,Aspirapolvere,Casa,7,91.05,2025-02-11,Bari,Carta,12.0
+10151,1034,Tostapane,Casa,3,379.43,2025-01-20,Palermo,Bonifico,0.0
+10152,1020,Lampada,Casa,10,790.98,2025-06-25,Napoli,PayPal,8.0
+10153,1038,Manubri,Sport,10,342.37,2025-10-24,Palermo,Carta,37.0
+10154,1085,Romanzo,Libri,10,425.84,2025-12-20,Bologna,PayPal,31.0
+10155,1113,Manuale Python,Libri,9,151.63,2025-11-19,Firenze,Contrassegno,2.0
+10156,1168,Monitor,Elettronica,10,229.78,2025-05-20,Bologna,Carta,36.0
+10157,1041,Jeans,Abbigliamento,4,548.26,2025-07-05,Firenze,Bonifico,28.0
+10158,1018,Bicicletta,Sport,6,762.8,2025-08-31,Firenze,PayPal,15.0
+10159,1156,Thriller,Libri,1,283.93,2025-05-15,Milano,Contrassegno,38.0
+10160,1078,Romanzo,Libri,2,343.86,2025-01-05,Palermo,Bonifico,25.0
+10161,1122,Cuffie Gaming,Gaming,4,694.8,2025-02-06,Palermo,PayPal,4.0
+10162,1188,Aspirapolvere,Casa,8,426.1,2025-08-10,Napoli,PayPal,33.0
+10163,1138,Giacca,Abbigliamento,4,207.7,2025-01-28,Bologna,Bonifico,23.0
+10164,1072,Cuffie Gaming,Gaming,6,487.72,2025-05-14,Roma,PayPal,29.0
+10165,1180,Thriller,Libri,3,902.51,2025-07-24,Napoli,PayPal,0.0
+10166,1129,Joystick,Gaming,2,407.35,2025-06-22,Palermo,PayPal,9.0
+10167,1152,Monitor,Elettronica,1,50.76,2025-09-20,Bologna,PayPal,5.0
+10168,1153,Manuale Python,Libri,3,87.75,2025-10-03,Torino,Contrassegno,10.0
+10169,1038,Manubri,Sport,7,239.27,2025-10-17,Roma,Contrassegno,31.0
+10170,1059,Felpa,Abbigliamento,4,666.43,2025-06-15,Napoli,Carta,13.0
+10171,1045,Thriller,Libri,3,144.2,2025-09-12,Roma,PayPal,18.0
+10172,1107,Manubri,Sport,7,221.61,2025-02-22,Milano,PayPal,26.0
+10173,1117,Tablet,Elettronica,10,392.0,2025-04-09,Milano,,4.0
+10174,1188,Tapis Roulant,Sport,7,668.45,2025-04-28,Palermo,PayPal,22.0
+10175,1008,Tablet,Elettronica,4,222.74,2025-07-06,,Carta,19.0
+10176,1070,Aspirapolvere,Casa,7,984.84,2025-03-14,Firenze,Carta,34.0
+10177,1177,Jeans,Abbigliamento,1,91.76,2025-09-04,Napoli,PayPal,
+10178,1139,Tapis Roulant,Sport,9,179.54,2025-01-29,Firenze,PayPal,37.0
+10179,1110,Tablet,Elettronica,4,395.62,2025-09-12,Roma,Carta,
+10180,1149,Cuffie Gaming,Gaming,7,975.54,2025-05-07,Napoli,PayPal,9.0
+10181,1180,Tapis Roulant,Sport,1,159.23,2025-08-03,Bari,PayPal,34.0
+10182,1152,Tostapane,Casa,2,489.94,2025-12-04,Torino,PayPal,2.0
+10183,1186,Console,Gaming,7,953.22,2025-02-01,Napoli,PayPal,25.0
+10184,1014,Felpa,Abbigliamento,5,418.68,2025-05-31,Milano,PayPal,22.0
+10185,1155,Tostapane,Casa,8,237.8,2025-02-22,Roma,Carta,38.0
+10186,1021,Console,Gaming,1,181.31,2025-03-14,Roma,Contrassegno,30.0
+10187,1034,Bicicletta,Sport,5,996.56,2025-04-19,Firenze,PayPal,35.0
+10188,1013,Tostapane,Casa,4,141.34,2025-01-04,Milano,Carta,30.0
+10189,1078,Manuale Python,Libri,6,766.3,2025-11-20,Firenze,Contrassegno,20.0
+10190,1076,Cuffie Gaming,Gaming,4,952.89,2025-02-01,Bari,Bonifico,8.0
+10191,1056,Manubri,Sport,4,18.08,2025-05-13,Napoli,PayPal,34.0
+10192,1005,Bicicletta,Sport,8,990.57,2025-09-04,Bari,Contrassegno,14.0
+10193,1076,Console,Gaming,5,765.79,2025-01-24,Palermo,Contrassegno,1.0
+10194,1021,Jeans,Abbigliamento,4,920.85,2025-01-24,Palermo,PayPal,27.0
+10195,1065,Felpa,Abbigliamento,4,603.75,2025-04-30,Palermo,Carta,18.0
+10196,1061,Cuffie Gaming,Gaming,9,217.86,2025-09-23,Bologna,PayPal,7.0
+10197,1054,Manubri,Sport,2,461.5,2025-11-22,Palermo,Carta,9.0
+10198,1119,Romanzo,Libri,4,18.06,2025-06-30,Bari,Contrassegno,29.0
+10199,1049,Manubri,Sport,8,446.34,2025-09-09,,Bonifico,34.0
+10200,1106,Bicicletta,Sport,8,49.61,2025-02-26,Firenze,Carta,37.0
+10201,1155,Thriller,Libri,7,647.21,2025-01-19,Napoli,PayPal,35.0
+10202,1011,Cuffie Gaming,Gaming,4,222.96,2025-12-21,Torino,PayPal,39.0
+10203,1119,Tostapane,Casa,2,504.68,2025-12-01,Bologna,Bonifico,4.0
+10204,1128,Console,Gaming,10,225.41,2025-08-30,Palermo,Carta,33.0
+10205,1023,Tapis Roulant,Sport,9,593.47,2025-02-06,Roma,Contrassegno,31.0
+10206,1049,Jeans,Abbigliamento,4,980.34,2025-01-28,Roma,Bonifico,6.0
+10207,1073,Joystick,Gaming,3,305.81,2025-10-12,Bologna,Bonifico,
+10208,1012,Giacca,Abbigliamento,9,433.65,2025-07-23,Napoli,Bonifico,0.0
+10209,1058,Console,Gaming,10,316.3,2025-05-20,Bari,PayPal,7.0
+10210,1134,Console,Gaming,3,437.14,2025-09-05,Palermo,Contrassegno,
+10211,1066,Laptop,Elettronica,10,277.63,2025-04-11,,Contrassegno,18.0
+10212,1072,Manubri,Sport,-1,914.69,2025-08-07,Firenze,Contrassegno,
+10213,1111,Jeans,Abbigliamento,3,468.87,2025-03-10,Roma,PayPal,0.0
+10214,1070,Thriller,Libri,2,367.36,2025-04-30,Firenze,,6.0
+10215,1091,Tostapane,Casa,4,497.46,2025-06-24,Bologna,Carta,33.0
+10216,1142,Joystick,Gaming,2,211.91,2025-01-07,Bari,Contrassegno,35.0
+10217,1100,Giacca,Abbigliamento,2,376.11,2025-03-16,Napoli,Contrassegno,24.0
+10218,1093,Aspirapolvere,Casa,8,412.48,2025-12-03,Bologna,Contrassegno,31.0
+10219,1095,Laptop,Elettronica,6,472.5,2025-07-24,Bari,PayPal,4.0
+10220,1083,Manubri,Sport,7,369.07,2025-05-06,Bari,Bonifico,36.0
+10221,1068,Romanzo,Libri,2,193.22,2025-04-11,Roma,PayPal,4.0
+10222,1064,Manuale Python,Libri,9,467.41,2025-10-05,Firenze,Carta,10.0
+10223,1008,Smartphone,Elettronica,3,231.16,2025-09-04,Napoli,PayPal,6.0
+10224,1085,Cuffie Gaming,Gaming,8,377.52,2025-08-15,Roma,Carta,7.0
+10225,1192,Thriller,Libri,1,160.69,2025-07-13,Bari,Carta,17.0
+10226,1054,Jeans,Abbigliamento,1,480.75,2025-04-25,Napoli,Bonifico,6.0
+10227,1015,Tostapane,Casa,8,138.03,2025-06-14,Palermo,Bonifico,38.0
+10228,1081,Lampada,Casa,7,737.19,2025-10-22,Bologna,Carta,18.0
+10229,1122,Giacca,Abbigliamento,10,178.82,2025-12-26,Milano,Carta,18.0
+10230,1001,Smartphone,Elettronica,7,915.84,2025-07-29,Torino,Bonifico,29.0
+10231,1168,Tablet,Elettronica,1,610.78,2025-09-21,Milano,Carta,24.0
+10232,1129,Felpa,Abbigliamento,4,80.77,2025-01-26,Firenze,Bonifico,12.0
+10233,1007,Cuffie Gaming,Gaming,5,877.15,2025-04-02,Bologna,Carta,23.0
+10234,1112,Thriller,Libri,5,221.65,2025-09-26,Milano,,0.0
+10235,1065,Cuffie Gaming,Gaming,9,146.64,2025-02-25,Napoli,Contrassegno,3.0
+10236,1199,Tostapane,Casa,8,870.9,2025-12-31,,Bonifico,36.0
+10237,1081,Jeans,Abbigliamento,9,523.23,2025-12-13,Milano,PayPal,22.0
+10238,1134,Felpa,Abbigliamento,7,340.71,2025-08-13,Bologna,Bonifico,40.0
+10239,1076,Lampada,Casa,8,485.78,2025-12-03,Bari,Carta,21.0
+10240,1027,Monitor,Elettronica,10,8.32,2025-09-25,Napoli,PayPal,11.0
+10241,1159,Joystick,Gaming,9,935.86,2025-06-23,Torino,PayPal,15.0
+10242,1009,Tostapane,Casa,1,773.12,2025-04-01,Roma,Contrassegno,25.0
+10243,1166,Console,Gaming,4,621.04,2025-03-25,Roma,Contrassegno,29.0
+10244,1153,Romanzo,Libri,2,216.38,2025-12-25,Firenze,Contrassegno,39.0
+10245,1061,Thriller,Libri,6,72.25,2025-02-17,Milano,Carta,5.0
+10246,1092,Manubri,Sport,2,582.29,2025-11-11,Palermo,Contrassegno,6.0
+10247,1071,Jeans,Abbigliamento,2,250.13,2025-10-19,Milano,Contrassegno,2.0
+10248,1110,Console,Gaming,9,564.13,2025-04-05,Roma,PayPal,32.0
+10249,1098,Bicicletta,Sport,9,648.7,2025-02-17,Bologna,Bonifico,34.0
+10250,1168,Monitor,Elettronica,2,134.39,2025-10-11,Roma,Bonifico,9.0
+10251,1057,Felpa,Abbigliamento,6,818.96,2025-05-10,Palermo,Contrassegno,11.0
+10252,1144,Bicicletta,Sport,7,980.29,2025-06-07,Bari,Bonifico,6.0
+10253,1197,Cuffie Gaming,Gaming,1,151.85,2025-08-13,Torino,Carta,0.0
+10254,1064,Lampada,Casa,3,611.0,2025-07-27,Milano,Bonifico,27.0
+10255,1044,Thriller,Libri,7,659.04,2025-09-28,Bari,,8.0
+10256,1159,Romanzo,Libri,3,217.79,2025-12-24,Roma,Carta,26.0
+10257,1154,Lampada,Casa,6,754.76,2025-02-13,Bari,Carta,28.0
+10258,1095,Bicicletta,Sport,9,192.51,2025-11-24,Roma,PayPal,39.0
+10259,1111,Joystick,Gaming,7,80.03,2025-03-04,Roma,Carta,20.0
+10260,1199,Romanzo,Libri,6,866.93,2025-07-31,Torino,Carta,2.0
+10261,1020,Thriller,Libri,8,343.23,2025-09-21,Milano,Bonifico,32.0
+10262,1186,Monitor,Elettronica,1,721.87,2025-06-13,Napoli,Bonifico,24.0
+10263,1066,Manubri,Sport,10,816.9,2025-03-04,Roma,Contrassegno,17.0
+10264,1018,Lampada,Casa,4,692.03,2025-04-21,Roma,Carta,8.0
+10265,1183,Tapis Roulant,Sport,1,979.75,2025-11-28,Bari,,6.0
+10266,1166,Cuffie Gaming,Gaming,6,747.57,2025-06-30,Milano,Bonifico,34.0
+10267,1032,Lampada,Casa,3,73.41,2025-10-06,Napoli,Bonifico,8.0
+10268,1067,Lampada,Casa,1,919.86,2025-03-20,Napoli,PayPal,8.0
+10269,1181,Aspirapolvere,Casa,6,166.04,2025-04-16,Bologna,Contrassegno,39.0
+10270,1070,Felpa,Abbigliamento,4,852.53,2025-03-09,Roma,PayPal,6.0
+10271,1069,Giacca,Abbigliamento,2,993.6,2025-11-01,Bologna,Contrassegno,12.0
+10272,1014,Aspirapolvere,Casa,5,321.37,2025-04-23,Bari,Carta,35.0
+10273,1045,Manuale Python,Libri,3,933.83,2025-11-19,Bologna,Carta,40.0
+10274,1030,Thriller,Libri,7,581.86,2025-03-25,Palermo,PayPal,14.0
+10275,1063,Giacca,Abbigliamento,2,715.95,2025-08-06,Napoli,Bonifico,28.0
+10276,1126,Joystick,Gaming,10,71.88,2025-11-01,Bologna,PayPal,19.0
+10277,1083,Thriller,Libri,1,459.31,2025-01-27,Roma,Carta,27.0
+10278,1184,Tapis Roulant,Sport,5,910.92,2025-08-19,,PayPal,14.0
+10279,1162,Aspirapolvere,Casa,4,192.93,2025-09-02,Bologna,PayPal,38.0
+10280,1011,Lampada,Casa,1,433.7,2025-08-24,Napoli,Contrassegno,3.0
+10281,1072,Lampada,Casa,4,643.03,2025-07-01,,PayPal,24.0
+10282,1113,Thriller,Libri,2,758.8,2025-01-01,Torino,Bonifico,39.0
+10283,1064,Laptop,Elettronica,7,104.85,2025-06-26,Milano,Carta,27.0
+10284,1111,Manubri,Sport,6,560.85,2025-05-16,Palermo,Contrassegno,6.0
+10285,1160,Console,Gaming,6,856.95,2025-05-07,Bari,Bonifico,5.0
+10286,1132,Bicicletta,Sport,1,783.12,2025-03-18,Milano,Contrassegno,-10.0
+10287,1011,Aspirapolvere,Casa,4,505.01,2025-10-19,Firenze,Bonifico,6.0
+10288,1111,Manuale Python,Libri,9,182.59,2025-06-19,Napoli,PayPal,5.0
+10289,1106,Console,Gaming,2,230.44,2025-01-09,Bologna,Contrassegno,13.0
+10290,1032,Tostapane,Casa,9,642.96,2025-08-29,Torino,Contrassegno,29.0
+10291,1112,Tostapane,Casa,1,902.88,2025-03-21,Napoli,PayPal,27.0
+10292,1036,Lampada,Casa,6,0.0,2025-04-07,Roma,Bonifico,22.0
+10293,1128,Aspirapolvere,Casa,6,308.44,2025-05-21,Bologna,Bonifico,13.0
+10294,1093,Tostapane,Casa,2,578.85,2025-05-11,Roma,,34.0
+10295,1000,Jeans,Abbigliamento,2,383.06,2025-03-01,Milano,Contrassegno,13.0
+10296,1166,Giacca,Abbigliamento,4,959.38,2025-01-01,Bologna,Bonifico,35.0
+10297,1147,Console,Gaming,10,560.75,2025-11-07,Napoli,PayPal,23.0
+10298,1161,Bicicletta,Sport,2,699.94,2025-02-09,Firenze,PayPal,34.0
+10299,1163,Tapis Roulant,Sport,2,576.31,2025-03-26,Torino,Bonifico,
+10300,1193,Joystick,Gaming,10,70.26,2025-08-22,,PayPal,33.0
+10301,1064,Joystick,Gaming,6,42.73,2025-10-18,Bologna,Carta,21.0
+10302,1018,Tostapane,Casa,10,699.9,2025-09-05,Milano,Contrassegno,5.0
+10303,1077,Tostapane,Casa,5,855.93,2025-09-12,Bari,,7.0
+10304,1119,Thriller,Libri,6,62.47,2025-01-12,Bari,PayPal,38.0
+10305,1137,Giacca,Abbigliamento,9,732.96,2025-03-18,Torino,Contrassegno,39.0
+10306,1103,Giacca,Abbigliamento,8,444.31,2025-11-03,Bari,Carta,11.0
+10307,1017,Laptop,Elettronica,5,447.59,2025-08-13,Milano,Bonifico,
+10308,1040,Felpa,Abbigliamento,2,446.56,2025-07-19,Firenze,Bonifico,35.0
+10309,1180,Console,Gaming,2,678.21,2025-03-07,Torino,PayPal,4.0
+10310,1148,Tapis Roulant,Sport,9,502.83,2025-10-21,Napoli,Contrassegno,10.0
+10311,1153,Giacca,Abbigliamento,2,244.37,2025-07-04,Firenze,Contrassegno,34.0
+10312,1199,Lampada,Casa,8,620.84,2025-08-31,Bari,Bonifico,15.0
+10313,1149,Romanzo,Libri,5,294.95,2025-01-20,,Bonifico,11.0
+10314,1084,Smartphone,Elettronica,1,453.97,2025-05-26,Roma,Bonifico,32.0
+10315,1173,Aspirapolvere,Casa,2,563.92,2025-02-25,Palermo,,18.0
+10316,1028,Felpa,Abbigliamento,4,427.92,2025-05-31,Torino,PayPal,6.0
+10317,1143,Tostapane,Casa,5,508.19,2025-07-11,Palermo,Contrassegno,34.0
+10318,1118,Lampada,Casa,8,742.69,2025-11-12,Roma,Contrassegno,27.0
+10319,1010,Romanzo,Libri,8,259.86,2025-05-24,Napoli,Carta,
+10320,1193,Jeans,Abbigliamento,6,860.33,2025-09-30,,Carta,2.0
+10321,1053,Tostapane,Casa,5,684.88,2025-10-02,Napoli,Contrassegno,5.0
+10322,1083,Felpa,Abbigliamento,5,433.39,2025-05-20,Bologna,Bonifico,18.0
+10323,1186,Monitor,Elettronica,9,633.88,2025-11-25,Milano,Bonifico,21.0
+10324,1063,Cuffie Gaming,Gaming,6,941.25,2025-11-08,Napoli,Contrassegno,29.0
+10325,1023,Console,Gaming,1,792.04,2025-10-29,Firenze,Contrassegno,38.0
+10326,1199,Thriller,Libri,9,113.61,2025-02-12,Palermo,Contrassegno,35.0
+10327,1004,Console,Gaming,6,462.02,2025-11-27,Firenze,PayPal,18.0
+10328,1170,Lampada,Casa,5,315.15,2025-02-01,Firenze,PayPal,19.0
+10329,1193,Thriller,Libri,9,56.44,2025-09-04,,Carta,35.0
+10330,1110,Console,Gaming,1,744.92,2025-05-01,Bari,PayPal,3.0
+10331,1091,Monitor,Elettronica,3,566.86,2025-08-24,Torino,Carta,12.0
+10332,1184,Console,Gaming,8,949.72,2025-07-07,Roma,Bonifico,39.0
+10333,1100,Console,Gaming,8,685.04,2025-11-24,Torino,Carta,21.0
+10334,1129,Manuale Python,Libri,3,549.91,2025-11-07,Torino,Bonifico,0.0
+10335,1104,Bicicletta,Sport,4,969.39,2025-06-30,Torino,PayPal,13.0
+10336,1070,Thriller,Libri,-1,469.66,2025-07-02,Milano,Carta,24.0
+10337,1159,Console,Gaming,10,996.21,2025-11-26,Napoli,Contrassegno,13.0
+10338,1044,Lampada,Casa,1,912.87,2025-10-28,Napoli,PayPal,37.0
+10339,1190,Tapis Roulant,Sport,5,397.7,2025-05-05,Bologna,Bonifico,1.0
+10340,1003,Manubri,Sport,3,418.93,2025-02-21,Bologna,Bonifico,10.0
+10341,1066,Tostapane,Casa,3,350.6,2025-11-05,Torino,Carta,0.0
+10342,1071,Monitor,Elettronica,5,891.35,2025-04-05,Bologna,PayPal,25.0
+10343,1132,Bicicletta,Sport,4,740.16,2025-07-20,Bari,Bonifico,12.0
+10344,1034,Tapis Roulant,Sport,2,532.87,2025-07-13,Roma,Carta,33.0
+10345,1156,Tapis Roulant,Sport,3,765.52,2025-01-25,Napoli,Contrassegno,6.0
+10346,1129,Lampada,Casa,8,0.0,2025-01-01,Torino,Bonifico,24.0
+10347,1029,Smartphone,Elettronica,2,18.07,2025-06-25,,Bonifico,2.0
+10348,1188,Bicicletta,Sport,10,945.04,2025-10-12,Bologna,Carta,0.0
+10349,1153,Thriller,Libri,6,728.03,2025-10-07,Bologna,Contrassegno,7.0
+10350,1138,Romanzo,Libri,2,481.53,2025-07-30,Torino,PayPal,26.0
+10351,1163,Lampada,Casa,5,853.76,2025-10-10,Torino,Bonifico,19.0
+10352,1126,Romanzo,Libri,1,232.44,2025-06-04,Roma,PayPal,14.0
+10353,1058,Manubri,Sport,9,456.88,2025-02-13,Palermo,Carta,36.0
+10354,1145,Giacca,Abbigliamento,1,182.95,2025-10-29,Napoli,Carta,40.0
+10355,1186,Giacca,Abbigliamento,7,437.53,2025-04-11,Roma,Contrassegno,40.0
+10356,1039,Tostapane,Casa,5,782.13,2025-08-05,Napoli,Carta,
+10357,1076,Monitor,Elettronica,7,218.87,2025-09-04,Milano,Bonifico,13.0
+10358,1091,Romanzo,Libri,7,498.21,2025-07-23,Palermo,PayPal,5.0
+10359,1199,Monitor,Elettronica,6,496.06,2025-07-04,Bari,PayPal,18.0
+10360,1130,Joystick,Gaming,7,851.82,2025-09-06,Torino,Contrassegno,40.0
+10361,1006,Manuale Python,Libri,6,816.52,2025-03-08,Bari,Bonifico,30.0
+10362,1012,Giacca,Abbigliamento,6,168.0,2025-03-06,Firenze,,25.0
+10363,1188,Tablet,Elettronica,6,801.6,2025-03-29,Bari,PayPal,20.0
+10364,1076,Felpa,Abbigliamento,4,631.01,2025-01-29,Bari,Carta,26.0
+10365,1137,Tablet,Elettronica,10,365.06,2025-05-28,Palermo,PayPal,0.0
+10366,1013,Laptop,Elettronica,5,123.53,2025-11-12,Firenze,Contrassegno,35.0
+10367,1108,Laptop,Elettronica,7,630.89,2025-07-15,Palermo,Carta,22.0
+10368,1047,Cuffie Gaming,Gaming,6,896.32,2025-06-26,Bologna,Bonifico,21.0
+10369,1197,Cuffie Gaming,Gaming,8,626.13,2025-04-22,Milano,Bonifico,
+10370,1101,Aspirapolvere,Casa,7,511.13,2025-02-14,Milano,PayPal,13.0
+10371,1035,Jeans,Abbigliamento,10,262.12,2025-03-16,,PayPal,6.0
+10372,1055,Tostapane,Casa,5,942.42,2025-12-22,,Bonifico,1.0
+10373,1017,Bicicletta,Sport,9,856.73,2025-04-28,Napoli,Bonifico,30.0
+10374,1065,Laptop,Elettronica,7,247.63,2025-04-05,Roma,PayPal,24.0
+10375,1058,Tostapane,Casa,7,303.75,2025-09-24,Milano,Contrassegno,29.0
+10376,1062,Felpa,Abbigliamento,1,980.14,2025-06-06,Torino,Carta,10.0
+10377,1084,Manuale Python,Libri,8,383.92,2025-06-21,Palermo,Bonifico,27.0
+10378,1051,Joystick,Gaming,7,927.17,2025-03-12,Bari,Bonifico,15.0
+10379,1062,Lampada,Casa,10,804.05,2025-05-06,Roma,Contrassegno,0.0
+10380,1066,Giacca,Abbigliamento,9,741.48,2025-02-11,Napoli,PayPal,2.0
+10381,1039,Jeans,Abbigliamento,8,637.62,2025-05-06,Palermo,PayPal,13.0
+10382,1123,Tapis Roulant,Sport,7,233.4,2025-11-24,Bari,Contrassegno,6.0
+10383,1175,Lampada,Casa,3,676.12,2025-03-04,Roma,PayPal,28.0
+10384,1035,Felpa,Abbigliamento,8,623.2,2025-10-05,Firenze,Bonifico,37.0
+10385,1147,Tapis Roulant,Sport,5,821.84,2025-07-15,Bari,Contrassegno,9.0
+10386,1015,Tapis Roulant,Sport,1,634.83,2025-09-15,Firenze,Bonifico,39.0
+10387,1127,Felpa,Abbigliamento,1,119.09,2025-07-24,Bologna,PayPal,18.0
+10388,1067,Manuale Python,Libri,4,731.36,2025-03-17,Roma,PayPal,39.0
+10389,1072,Monitor,Elettronica,7,547.08,2025-06-15,Firenze,Carta,19.0
+10390,1099,Monitor,Elettronica,2,899.34,2025-02-03,Bari,Carta,28.0
+10391,1194,Manubri,Sport,9,815.15,2025-06-07,Palermo,PayPal,4.0
+10392,1120,Bicicletta,Sport,2,881.61,2025-03-11,Milano,Bonifico,14.0
+10393,1055,Smartphone,Elettronica,6,211.79,2025-04-29,Bologna,PayPal,14.0
+10394,1033,Giacca,Abbigliamento,2,873.11,2025-09-12,Roma,,9.0
+10395,1163,Monitor,Elettronica,4,750.46,2025-11-16,Roma,Bonifico,37.0
+10396,1012,Cuffie Gaming,Gaming,-1,523.47,2025-10-20,Milano,PayPal,11.0
+10397,1183,Thriller,Libri,2,818.27,2025-10-06,Firenze,Carta,2.0
+10398,1098,Bicicletta,Sport,10,466.73,2025-11-23,Torino,,16.0
+10399,1054,Thriller,Libri,4,187.6,2025-01-07,Milano,Bonifico,14.0
+10400,1026,Joystick,Gaming,3,180.88,2025-01-03,Milano,Carta,8.0
+10401,1035,Manuale Python,Libri,9,777.66,2025-02-22,Torino,Carta,15.0
+10402,1193,Manubri,Sport,2,722.97,2025-07-08,Palermo,Contrassegno,16.0
+10403,1026,Thriller,Libri,7,949.43,2025-04-26,Milano,PayPal,10.0
+10404,1128,Monitor,Elettronica,6,686.08,2025-06-18,Bari,Carta,32.0
+10405,1007,Manubri,Sport,6,520.2,2025-03-04,Palermo,Carta,17.0
+10406,1125,Aspirapolvere,Casa,5,181.01,2025-10-26,Firenze,Contrassegno,37.0
+10407,1096,Monitor,Elettronica,10,344.42,2025-05-02,Napoli,Carta,34.0
+10408,1093,Giacca,Abbigliamento,6,904.82,2025-04-07,Firenze,Bonifico,27.0
+10409,1006,Bicicletta,Sport,5,417.81,2025-04-23,Palermo,Contrassegno,40.0
+10410,1058,Tostapane,Casa,8,46.58,2025-03-19,Bologna,Carta,
+10411,1101,Lampada,Casa,6,644.68,2025-05-29,Firenze,Bonifico,39.0
+10412,1065,Felpa,Abbigliamento,4,783.93,2025-04-04,,,38.0
+10413,1163,Cuffie Gaming,Gaming,5,311.49,2025-01-24,Bari,Contrassegno,38.0
+10414,1151,Aspirapolvere,Casa,9,336.08,2025-10-19,Milano,Carta,6.0
+10415,1070,Laptop,Elettronica,2,393.97,2025-05-02,Milano,PayPal,17.0
+10416,1018,Monitor,Elettronica,4,851.04,2025-04-19,Firenze,Contrassegno,3.0
+10417,1001,Lampada,Casa,7,436.94,2025-08-15,Milano,PayPal,15.0
+10418,1050,Giacca,Abbigliamento,7,141.4,2025-08-27,Bologna,Contrassegno,26.0
+10419,1189,Thriller,Libri,3,555.23,2025-12-21,Napoli,PayPal,8.0
+10420,1185,Laptop,Elettronica,2,562.37,2025-12-27,Roma,Contrassegno,11.0
+10421,1145,Manuale Python,Libri,9,471.71,2025-08-18,Roma,,21.0
+10422,1043,Jeans,Abbigliamento,1,887.84,2025-05-15,Roma,PayPal,9.0
+10423,1010,Romanzo,Libri,5,456.18,2025-09-29,Firenze,PayPal,9.0
+10424,1094,Bicicletta,Sport,6,0.0,2025-03-23,Bologna,Carta,21.0
+10425,1183,Felpa,Abbigliamento,9,391.31,2025-12-14,Torino,PayPal,14.0
+10426,1046,Thriller,Libri,3,733.78,2025-01-05,Roma,Bonifico,3.0
+10427,1190,Jeans,Abbigliamento,9,973.33,2025-07-29,Torino,Bonifico,14.0
+10428,1043,Laptop,Elettronica,10,591.48,2025-12-27,Torino,Bonifico,29.0
+10429,1182,Tablet,Elettronica,3,700.58,2025-03-29,Roma,Carta,1.0
+10430,1103,Aspirapolvere,Casa,1,20.03,2025-10-14,Napoli,Bonifico,7.0
+10431,1084,Thriller,Libri,1,478.58,2025-01-09,Firenze,Bonifico,22.0
+10432,1017,Manubri,Sport,9,36.6,2025-01-09,Roma,Carta,34.0
+10433,1021,Lampada,Casa,5,648.76,2025-06-12,Palermo,Contrassegno,16.0
+10434,1157,Aspirapolvere,Casa,2,878.1,2025-04-21,Firenze,Contrassegno,21.0
+10435,1107,Giacca,Abbigliamento,1,351.81,2025-09-04,Milano,Bonifico,20.0
+10436,1195,Tostapane,Casa,5,790.76,2025-02-15,Firenze,Bonifico,6.0
+10437,1180,Console,Gaming,3,272.19,2025-11-09,Bologna,Contrassegno,27.0
+10438,1148,Tapis Roulant,Sport,6,958.24,2025-04-18,Bari,Carta,29.0
+10439,1078,Cuffie Gaming,Gaming,10,78.21,2025-03-10,Milano,PayPal,6.0
+10440,1147,Bicicletta,Sport,10,784.33,2025-07-23,,Contrassegno,37.0
+10441,1076,Thriller,Libri,9,38.65,2025-06-13,Palermo,Contrassegno,4.0
+10442,1189,Giacca,Abbigliamento,4,397.37,2025-09-26,Firenze,PayPal,12.0
+10443,1011,Manubri,Sport,10,319.06,2025-08-04,Palermo,PayPal,15.0
+10444,1094,Romanzo,Libri,10,999.45,2025-07-01,Bologna,Contrassegno,26.0
+10445,1189,Felpa,Abbigliamento,7,695.75,2025-08-31,Bologna,,25.0
+10446,1182,Aspirapolvere,Casa,5,549.14,2025-12-15,Palermo,Bonifico,37.0
+10447,1004,Tablet,Elettronica,9,550.02,2025-07-08,Napoli,Carta,23.0
+10448,1076,Bicicletta,Sport,7,948.37,2025-08-15,Bari,Carta,6.0
+10449,1081,Monitor,Elettronica,9,667.82,2025-12-13,Bologna,Bonifico,2.0
+10450,1124,Monitor,Elettronica,4,451.34,2025-02-05,Firenze,Contrassegno,19.0
+10451,1072,Thriller,Libri,7,678.29,2025-11-29,Bari,Bonifico,29.0
+10452,1127,Console,Gaming,8,260.44,2025-04-03,Milano,Carta,13.0
+10453,1153,Smartphone,Elettronica,5,296.22,2025-06-08,Roma,PayPal,16.0
+10454,1155,Cuffie Gaming,Gaming,5,547.85,2025-06-08,Bologna,Bonifico,5.0
+10455,1050,Console,Gaming,5,300.83,2025-09-29,Palermo,Carta,12.0
+10456,1003,Manubri,Sport,8,297.57,2025-04-17,Milano,Contrassegno,6.0
+10457,1093,Smartphone,Elettronica,3,235.76,2025-09-02,Bologna,,18.0
+10458,1007,Manuale Python,Libri,9,372.72,2025-07-17,Firenze,PayPal,17.0
+10459,1007,Tostapane,Casa,9,543.35,2025-02-19,Torino,Carta,30.0
+10460,1070,Romanzo,Libri,8,985.26,2025-12-14,Bologna,Bonifico,2.0
+10461,1122,Cuffie Gaming,Gaming,6,487.05,2025-05-13,Roma,Bonifico,150.0
+10462,1148,Manubri,Sport,4,73.27,2025-12-31,Palermo,Carta,33.0
+10463,1085,Giacca,Abbigliamento,7,388.0,2025-04-07,Roma,Bonifico,7.0
+10464,1122,Aspirapolvere,Casa,6,195.85,2025-02-05,Bologna,Carta,24.0
+10465,1135,Smartphone,Elettronica,4,112.22,2025-11-19,Bari,Carta,6.0
+10466,1039,Joystick,Gaming,9,944.59,2025-08-06,Roma,Contrassegno,9.0
+10467,1119,Giacca,Abbigliamento,4,552.28,2025-04-08,Bari,Carta,4.0
+10468,1167,Joystick,Gaming,6,797.23,2025-12-30,Milano,,4.0
+10469,1139,Tostapane,Casa,4,178.82,2025-07-14,Roma,Contrassegno,-10.0
+10470,1099,Manuale Python,Libri,4,508.38,2025-06-20,Roma,,33.0
+10471,1126,Cuffie Gaming,Gaming,7,881.77,2025-09-05,Milano,Contrassegno,39.0
+10472,1148,Joystick,Gaming,7,86.3,2025-07-25,Torino,Carta,21.0
+10473,1099,Monitor,Elettronica,9,84.54,2025-09-28,Firenze,PayPal,13.0
+10474,1003,Tablet,Elettronica,2,356.44,2025-09-30,Firenze,Carta,20.0
+10475,1020,Tostapane,Casa,4,646.87,2025-10-17,Milano,Bonifico,38.0
+10476,1108,Manubri,Sport,5,224.58,2025-04-21,Roma,Contrassegno,5.0
+10477,1175,Tostapane,Casa,5,172.75,2025-04-25,Bari,Bonifico,40.0
+10478,1113,Bicicletta,Sport,8,389.7,2025-06-17,Palermo,Bonifico,2.0
+10479,1161,Console,Gaming,10,497.54,2025-06-04,Roma,Contrassegno,21.0
+10480,1136,Laptop,Elettronica,2,756.34,2025-08-20,Roma,Contrassegno,32.0
+10481,1157,Aspirapolvere,Casa,10,415.38,2025-01-21,Roma,Contrassegno,35.0
+10482,1087,Tapis Roulant,Sport,2,878.45,2025-09-25,Roma,Carta,22.0
+10483,1054,Aspirapolvere,Casa,4,367.87,2025-06-30,Roma,Contrassegno,22.0
+10484,1030,Manuale Python,Libri,6,707.99,2025-01-11,Roma,Contrassegno,0.0
+10485,1100,Manuale Python,Libri,8,435.53,2025-02-27,Palermo,Bonifico,23.0
+10486,1145,Tablet,Elettronica,8,389.77,2025-03-07,Bari,,32.0
+10487,1033,Aspirapolvere,Casa,5,380.02,2025-07-08,Palermo,Contrassegno,26.0
+10488,1041,Romanzo,Libri,1,109.77,2025-06-26,Bari,Carta,1.0
+10489,1124,Tablet,Elettronica,5,888.53,2025-08-05,Torino,Carta,40.0
+10490,1069,Manuale Python,Libri,6,280.95,2025-12-26,Bologna,PayPal,5.0
+10491,1198,Console,Gaming,3,905.48,2025-01-13,Bari,Contrassegno,0.0
+10492,1142,Jeans,Abbigliamento,5,445.6,2025-05-02,Bologna,Bonifico,39.0
+10493,1015,Thriller,Libri,7,196.85,2025-09-08,Palermo,PayPal,20.0
+10494,1069,Manubri,Sport,10,70.68,2025-05-20,Firenze,Bonifico,2.0
+10495,1116,Tostapane,Casa,7,370.68,2025-12-31,Napoli,Carta,30.0
+10496,1032,Manuale Python,Libri,2,423.79,2025-01-20,Firenze,PayPal,
+10497,1042,Thriller,Libri,10,999.44,2025-08-06,Bologna,Carta,40.0
+10498,1130,Monitor,Elettronica,9,896.7,2025-05-19,Firenze,Contrassegno,31.0
+10499,1199,Monitor,Elettronica,9,377.01,2025-08-11,Firenze,Contrassegno,14.0
+10500,1183,Thriller,Libri,2,528.72,2025-04-04,,Contrassegno,10.0
+10501,1055,Giacca,Abbigliamento,3,198.82,2025-09-13,Napoli,Carta,18.0
+10502,1131,Tablet,Elettronica,1,790.66,2025-10-25,Torino,Contrassegno,7.0
+10503,1066,Manuale Python,Libri,2,895.84,2025-09-27,Roma,Contrassegno,26.0
+10504,1064,Romanzo,Libri,2,270.11,2025-09-03,Torino,Contrassegno,36.0
+10505,1068,Manuale Python,Libri,9,827.18,2025-07-08,Palermo,Contrassegno,31.0
+10506,1175,Bicicletta,Sport,1,204.7,2025-03-11,Bari,Contrassegno,
+10507,1003,Lampada,Casa,7,406.38,2025-12-11,Torino,Contrassegno,12.0
+10508,1145,Tostapane,Casa,2,600.18,2025-10-03,Bari,Contrassegno,24.0
+10509,1164,Jeans,Abbigliamento,8,560.1,2025-10-25,Palermo,Carta,21.0
+10510,1075,Tostapane,Casa,5,455.62,2025-03-23,Bologna,Bonifico,14.0
+10511,1183,Manubri,Sport,2,639.57,2025-03-17,Firenze,Contrassegno,22.0
+10512,1101,Joystick,Gaming,8,5.24,2025-03-16,Palermo,PayPal,5.0
+10513,1175,Console,Gaming,3,236.61,2025-03-14,Firenze,PayPal,16.0
+10514,1035,Console,Gaming,7,860.36,2025-07-04,,Contrassegno,40.0
+10515,1010,Giacca,Abbigliamento,8,138.45,2025-01-02,Bari,Carta,7.0
+10516,1055,Romanzo,Libri,4,825.86,2025-02-28,Bari,Contrassegno,26.0
+10517,1200,Laptop,Elettronica,10,765.22,2025-11-02,Palermo,Carta,10.0
+10518,1193,Cuffie Gaming,Gaming,6,528.88,2025-03-28,Firenze,Contrassegno,150.0
+10519,1021,Manubri,Sport,7,101.69,2025-06-15,Palermo,PayPal,15.0
+10520,1027,Manubri,Sport,10,245.12,2025-10-27,Palermo,,36.0
+10521,1153,Bicicletta,Sport,8,581.18,2025-04-27,Torino,Contrassegno,29.0
+10522,1047,Console,Gaming,3,160.25,2025-12-12,,PayPal,7.0
+10523,1096,Console,Gaming,3,0.0,2025-04-26,Milano,Contrassegno,5.0
+10524,1177,Console,Gaming,2,683.13,2025-06-10,Bologna,Contrassegno,18.0
+10525,1054,Cuffie Gaming,Gaming,9,883.63,2025-04-29,Torino,Carta,26.0
+10526,1065,Monitor,Elettronica,4,758.86,2025-12-25,Firenze,PayPal,20.0
+10527,1045,Cuffie Gaming,Gaming,3,726.08,2025-11-08,Bologna,Contrassegno,37.0
+10528,1073,Lampada,Casa,-1,256.18,2025-01-19,,Carta,25.0
+10529,1141,Bicicletta,Sport,6,763.34,2025-11-13,Firenze,PayPal,9.0
+10530,1178,Giacca,Abbigliamento,4,426.41,2025-02-17,Roma,PayPal,3.0
+10531,1169,Joystick,Gaming,4,59.63,2025-03-11,Roma,Carta,21.0
+10532,1062,Cuffie Gaming,Gaming,6,187.47,2025-06-05,Bari,Contrassegno,27.0
+10533,1020,Giacca,Abbigliamento,2,757.0,2025-08-13,Roma,,
+10534,1178,Giacca,Abbigliamento,8,257.08,2025-11-06,Firenze,PayPal,40.0
+10535,1182,Tostapane,Casa,9,361.51,2025-06-30,Palermo,PayPal,13.0
+10536,1151,Monitor,Elettronica,7,662.69,2025-12-26,Milano,Carta,0.0
+10537,1198,Tablet,Elettronica,5,729.53,2025-05-15,Roma,Contrassegno,5.0
+10538,1099,Bicicletta,Sport,2,0.0,2025-03-20,Torino,Contrassegno,20.0
+10539,1072,Romanzo,Libri,7,781.7,2025-04-16,Milano,Bonifico,21.0
+10540,1173,Cuffie Gaming,Gaming,1,14.51,2025-07-21,Palermo,Carta,2.0
+10541,1168,Aspirapolvere,Casa,3,719.09,2025-03-31,Milano,Contrassegno,24.0
+10542,1066,Bicicletta,Sport,10,517.16,2025-12-22,Roma,Bonifico,10.0
+10543,1088,Giacca,Abbigliamento,8,611.97,2025-10-13,Firenze,Carta,31.0
+10544,1076,Smartphone,Elettronica,7,89.46,2025-05-23,Milano,Carta,34.0
+10545,1011,Thriller,Libri,5,584.47,2025-07-25,Bologna,PayPal,38.0
+10546,1122,Giacca,Abbigliamento,8,289.33,2025-04-28,Napoli,Contrassegno,35.0
+10547,1040,Tostapane,Casa,8,380.54,2025-09-02,Firenze,Contrassegno,3.0
+10548,1030,Tostapane,Casa,9,594.81,2025-11-08,Firenze,Bonifico,-10.0
+10549,1162,Jeans,Abbigliamento,5,154.75,2025-03-15,Bari,Bonifico,38.0
+10550,1025,Manubri,Sport,3,299.54,2025-10-01,,Contrassegno,7.0
+10551,1111,Cuffie Gaming,Gaming,9,7.63,2025-07-01,Palermo,Contrassegno,24.0
+10552,1000,Tostapane,Casa,5,424.76,2025-08-24,Torino,Contrassegno,12.0
+10553,1015,Bicicletta,Sport,9,759.57,2025-01-25,Bologna,Bonifico,30.0
+10554,1159,Aspirapolvere,Casa,3,168.64,2025-07-06,Roma,PayPal,34.0
+10555,1033,Lampada,Casa,9,519.73,2025-05-16,Milano,Contrassegno,9.0
+10556,1197,Tapis Roulant,Sport,-1,969.91,2025-07-06,Bologna,Contrassegno,2.0
+10557,1075,Thriller,Libri,10,671.61,2025-12-21,Firenze,Contrassegno,37.0
+10558,1161,Console,Gaming,2,680.54,2025-02-22,Bologna,PayPal,6.0
+10559,1080,Tostapane,Casa,5,859.74,2025-09-26,Bari,PayPal,4.0
+10560,1161,Tostapane,Casa,7,187.93,2025-02-01,Firenze,Carta,22.0
+10561,1027,Laptop,Elettronica,10,498.32,2025-02-04,Milano,Bonifico,4.0
+10562,1147,Jeans,Abbigliamento,4,561.42,2025-05-25,Firenze,Bonifico,6.0
+10563,1134,Console,Gaming,1,851.44,2025-11-14,Bari,,10.0
+10564,1073,Lampada,Casa,2,573.04,2025-06-15,Milano,PayPal,14.0
+10565,1034,Manuale Python,Libri,8,365.47,2025-11-17,Milano,Bonifico,
+10566,1014,Tostapane,Casa,2,437.38,2025-04-22,Torino,Carta,35.0
+10567,1155,Aspirapolvere,Casa,7,159.76,2025-03-04,Torino,Contrassegno,24.0
+10568,1060,Tostapane,Casa,2,634.71,2025-07-10,Roma,Bonifico,
+10569,1135,Jeans,Abbigliamento,6,83.6,2025-02-24,Roma,PayPal,36.0
+10570,1144,Tablet,Elettronica,9,493.21,2025-11-11,Milano,PayPal,29.0
+10571,1129,Giacca,Abbigliamento,4,454.48,2025-11-26,Bari,Contrassegno,1.0
+10572,1188,Monitor,Elettronica,3,528.98,2025-06-29,Bologna,Carta,23.0
+10573,1026,Thriller,Libri,2,820.3,2025-10-03,Palermo,Contrassegno,30.0
+10574,1114,Thriller,Libri,6,474.32,2025-11-11,Torino,PayPal,40.0
+10575,1123,Romanzo,Libri,9,863.1,2025-11-21,Torino,Contrassegno,23.0
+10576,1196,Manubri,Sport,3,719.2,2025-05-21,Palermo,Carta,32.0
+10577,1104,Felpa,Abbigliamento,9,746.03,2025-11-03,Torino,PayPal,21.0
+10578,1007,Joystick,Gaming,7,937.7,2025-02-09,Milano,Carta,40.0
+10579,1063,Tostapane,Casa,7,818.74,2025-05-10,Firenze,PayPal,30.0
+10580,1049,Joystick,Gaming,4,180.19,2025-07-12,Roma,Contrassegno,22.0
+10581,1162,Joystick,Gaming,4,21.8,2025-07-11,Palermo,Contrassegno,5.0
+10582,1046,Lampada,Casa,3,289.07,2025-05-14,Firenze,PayPal,36.0
+10583,1042,Manuale Python,Libri,3,684.34,2025-11-16,Palermo,Bonifico,12.0
+10584,1183,Manubri,Sport,2,673.67,2025-12-15,Napoli,Bonifico,10.0
+10585,1001,Smartphone,Elettronica,2,639.74,2025-01-07,,Contrassegno,36.0
+10586,1047,Lampada,Casa,10,876.39,2025-12-01,Bari,PayPal,36.0
+10587,1043,Laptop,Elettronica,10,218.15,2025-10-31,Roma,PayPal,
+10588,1097,Bicicletta,Sport,9,343.88,2025-02-26,Roma,Contrassegno,5.0
+10589,1173,Console,Gaming,4,283.26,2025-04-05,Bologna,Contrassegno,10.0
+10590,1101,Aspirapolvere,Casa,3,260.51,2025-10-29,Napoli,Contrassegno,20.0
+10591,1008,Cuffie Gaming,Gaming,6,969.83,2025-12-15,Roma,Carta,24.0
+10592,1159,Tablet,Elettronica,7,954.8,2025-08-31,Bologna,Carta,
+10593,1078,Romanzo,Libri,7,143.24,2025-07-23,Roma,Contrassegno,37.0
+10594,1163,Manubri,Sport,5,559.32,2025-12-25,Roma,PayPal,35.0
+10595,1029,Tapis Roulant,Sport,10,94.87,2025-04-29,Firenze,Carta,9.0
+10596,1153,Giacca,Abbigliamento,3,293.4,2025-03-20,Roma,Carta,38.0
+10597,1158,Aspirapolvere,Casa,8,876.7,2025-09-07,Bari,PayPal,29.0
+10598,1125,Laptop,Elettronica,4,670.88,2025-07-16,Firenze,PayPal,7.0
+10599,1134,Bicicletta,Sport,9,88.66,2025-06-02,Roma,Bonifico,4.0
+10600,1065,Manubri,Sport,9,984.6,2025-04-11,Milano,Contrassegno,29.0
+10601,1017,Giacca,Abbigliamento,2,863.16,2025-04-22,Firenze,Bonifico,15.0
+10602,1032,Jeans,Abbigliamento,5,880.68,2025-06-21,,Bonifico,11.0
+10603,1111,Lampada,Casa,8,504.25,2025-09-02,Bari,Bonifico,
+10604,1165,Romanzo,Libri,10,609.99,2025-03-09,Torino,Contrassegno,
+10605,1148,Manuale Python,Libri,7,642.25,2025-02-08,Napoli,PayPal,10.0
+10606,1084,Joystick,Gaming,7,774.33,2025-08-21,Torino,Contrassegno,27.0
+10607,1010,Giacca,Abbigliamento,5,422.65,2025-08-07,Bari,Bonifico,0.0
+10608,1067,Tapis Roulant,Sport,2,895.52,2025-12-02,Bologna,Contrassegno,7.0
+10609,1123,Lampada,Casa,4,685.39,2025-07-20,Torino,Carta,34.0
+10610,1147,Manuale Python,Libri,2,467.66,2025-11-07,Milano,PayPal,33.0
+10611,1093,Tapis Roulant,Sport,5,377.36,2025-12-28,Roma,Contrassegno,
+10612,1019,Romanzo,Libri,2,494.43,2025-12-29,Palermo,PayPal,21.0
+10613,1066,Tablet,Elettronica,4,775.07,2025-06-14,Bologna,Carta,
+10614,1152,Laptop,Elettronica,5,375.17,2025-05-09,Torino,PayPal,31.0
+10615,1121,Joystick,Gaming,10,948.26,2025-07-19,Torino,PayPal,6.0
+10616,1200,Romanzo,Libri,8,963.99,2025-09-30,Milano,Contrassegno,31.0
+10617,1028,Joystick,Gaming,6,793.98,2025-05-18,Bologna,Contrassegno,5.0
+10618,1066,Manubri,Sport,10,478.65,2025-07-10,Roma,Carta,5.0
+10619,1144,Aspirapolvere,Casa,8,279.64,2025-12-14,Palermo,PayPal,32.0
+10620,1127,Manubri,Sport,5,303.42,2025-04-27,Roma,Contrassegno,33.0
+10621,1034,Aspirapolvere,Casa,2,650.8,2025-11-08,Napoli,Bonifico,30.0
+10622,1155,Felpa,Abbigliamento,7,648.22,2025-04-17,,Contrassegno,150.0
+10623,1013,Lampada,Casa,5,686.75,2025-01-30,Napoli,Contrassegno,19.0
+10624,1067,Tapis Roulant,Sport,6,130.22,2025-07-05,Roma,PayPal,30.0
+10625,1039,Console,Gaming,1,926.64,2025-10-01,Bologna,PayPal,26.0
+10626,1157,Aspirapolvere,Casa,4,221.25,2025-01-28,Firenze,PayPal,32.0
+10627,1155,Console,Gaming,4,185.14,2025-05-25,,Contrassegno,10.0
+10628,1099,Cuffie Gaming,Gaming,10,716.43,2025-06-02,Napoli,Contrassegno,34.0
+10629,1085,Thriller,Libri,10,132.51,2025-10-05,Torino,Bonifico,27.0
+10630,1017,Tablet,Elettronica,4,694.24,2025-05-19,Bari,Contrassegno,26.0
+10631,1193,Bicicletta,Sport,1,62.62,2025-07-27,Bologna,PayPal,5.0
+10632,1114,Cuffie Gaming,Gaming,6,113.2,2025-08-14,Firenze,PayPal,2.0
+10633,1050,Manuale Python,Libri,5,580.49,2025-09-22,Bari,Contrassegno,6.0
+10634,1179,Thriller,Libri,5,65.0,2025-06-19,Roma,,34.0
+10635,1073,Thriller,Libri,3,174.37,2025-12-30,Milano,PayPal,
+10636,1187,Thriller,Libri,10,886.9,2025-08-17,Bari,Bonifico,40.0
+10637,1004,Romanzo,Libri,4,505.02,2025-05-14,,Carta,30.0
+10638,1123,Tostapane,Casa,2,755.23,2025-05-14,Palermo,Carta,19.0
+10639,1036,Tapis Roulant,Sport,10,7.47,2025-08-21,Palermo,Carta,26.0
+10640,1013,Console,Gaming,3,278.02,2025-11-03,Bari,Bonifico,16.0
+10641,1143,Lampada,Casa,6,382.73,2025-02-17,Roma,Bonifico,8.0
+10642,1121,Tapis Roulant,Sport,5,596.42,2025-04-29,Bologna,Bonifico,39.0
+10643,1066,Manubri,Sport,4,75.49,2025-12-24,Napoli,Bonifico,
+10644,1172,Console,Gaming,10,504.81,2025-12-16,Roma,Bonifico,17.0
+10645,1062,Thriller,Libri,10,664.46,2025-03-04,Firenze,Contrassegno,19.0
+10646,1058,Romanzo,Libri,10,917.43,2025-06-22,Bari,Contrassegno,22.0
+10647,1125,Console,Gaming,8,829.56,2025-08-13,Palermo,Contrassegno,2.0
+10648,1045,Aspirapolvere,Casa,9,393.75,2025-02-08,Torino,Contrassegno,9.0
+10649,1047,Smartphone,Elettronica,8,37.56,2025-08-21,Roma,PayPal,14.0
+10650,1152,Jeans,Abbigliamento,4,503.98,2025-04-05,Napoli,Carta,16.0
+10651,1168,Manuale Python,Libri,2,136.9,2025-03-29,Napoli,Bonifico,23.0
+10652,1195,Console,Gaming,2,496.11,2025-07-13,Palermo,Contrassegno,
+10653,1102,Romanzo,Libri,10,699.24,2025-01-13,Milano,Contrassegno,7.0
+10654,1191,Monitor,Elettronica,2,154.8,2025-12-14,Torino,Carta,22.0
+10655,1038,Manubri,Sport,7,15.16,2025-11-19,Bari,Carta,32.0
+10656,1182,Monitor,Elettronica,2,925.37,2025-01-02,Torino,Carta,26.0
+10657,1137,Thriller,Libri,8,42.8,2025-10-20,Roma,Contrassegno,33.0
+10658,1093,Manuale Python,Libri,10,332.56,2025-08-10,Bari,Contrassegno,23.0
+10659,1153,Aspirapolvere,Casa,1,850.47,2025-11-27,Milano,Contrassegno,21.0
+10660,1156,Bicicletta,Sport,1,735.8,2025-01-17,Palermo,Contrassegno,11.0
+10661,1111,Tapis Roulant,Sport,3,515.8,2025-04-19,,Bonifico,26.0
+10662,1026,Manubri,Sport,2,958.74,2025-01-13,Bari,Carta,18.0
+10663,1168,Monitor,Elettronica,5,580.81,2025-02-15,Roma,Contrassegno,37.0
+10664,1094,Aspirapolvere,Casa,2,32.21,2025-07-06,Bari,Carta,26.0
+10665,1027,Console,Gaming,8,701.84,2025-01-10,Torino,Contrassegno,18.0
+10666,1061,Romanzo,Libri,5,7.3,2025-06-09,Firenze,Contrassegno,1.0
+10667,1051,Laptop,Elettronica,-1,927.97,2025-11-05,Torino,PayPal,22.0
+10668,1083,Bicicletta,Sport,6,34.12,2025-07-29,Bologna,Contrassegno,19.0
+10669,1096,Tapis Roulant,Sport,9,678.49,2025-03-18,Milano,Contrassegno,23.0
+10670,1109,Joystick,Gaming,8,724.88,2025-04-04,Napoli,Contrassegno,34.0
+10671,1000,Joystick,Gaming,2,511.4,2025-06-02,Palermo,Contrassegno,22.0
+10672,1066,Tostapane,Casa,6,41.75,2025-01-08,Roma,Carta,0.0
+10673,1168,Bicicletta,Sport,2,503.08,2025-06-26,Firenze,Carta,24.0
+10674,1182,Monitor,Elettronica,1,436.13,2025-05-24,Roma,Contrassegno,6.0
+10675,1127,Laptop,Elettronica,10,287.18,2025-11-26,Napoli,Bonifico,9.0
+10676,1184,Thriller,Libri,4,694.51,2025-11-03,Torino,Carta,2.0
+10677,1090,Manubri,Sport,5,905.32,2025-02-24,Napoli,PayPal,2.0
+10678,1183,Joystick,Gaming,1,291.13,2025-10-01,Bologna,Carta,37.0
+10679,1200,Jeans,Abbigliamento,6,755.2,2025-02-10,,PayPal,23.0
+10680,1145,Manuale Python,Libri,1,42.65,2025-12-11,Firenze,PayPal,13.0
+10681,1117,Manuale Python,Libri,3,565.72,2025-11-03,Palermo,PayPal,14.0
+10682,1100,Manubri,Sport,3,196.4,2025-04-02,Firenze,Contrassegno,18.0
+10683,1010,Aspirapolvere,Casa,6,647.63,2025-07-07,Roma,Carta,32.0
+10684,1078,Felpa,Abbigliamento,6,353.49,2025-07-30,Torino,PayPal,4.0
+10685,1173,Aspirapolvere,Casa,10,549.28,2025-08-05,Milano,Contrassegno,5.0
+10686,1090,Romanzo,Libri,1,849.2,2025-11-04,Roma,,34.0
+10687,1181,Jeans,Abbigliamento,6,418.26,2025-04-01,Torino,Carta,39.0
+10688,1000,Felpa,Abbigliamento,1,393.03,2025-10-29,,PayPal,23.0
+10689,1102,Console,Gaming,2,850.51,2025-09-03,Palermo,Bonifico,2.0
+10690,1021,Joystick,Gaming,5,591.2,2025-07-29,Milano,Carta,6.0
+10691,1140,Bicicletta,Sport,1,314.66,2025-11-25,Napoli,Bonifico,6.0
+10692,1061,Thriller,Libri,8,358.23,2025-10-08,Milano,Carta,26.0
+10693,1096,Romanzo,Libri,2,803.88,2025-04-25,Firenze,,9.0
+10694,1052,Lampada,Casa,5,612.71,2025-10-10,Bologna,Contrassegno,8.0
+10695,1088,Felpa,Abbigliamento,3,351.19,2025-11-16,Palermo,PayPal,
+10696,1024,Aspirapolvere,Casa,10,145.38,2025-04-13,Firenze,Bonifico,31.0
+10697,1137,Tablet,Elettronica,7,682.19,2025-01-07,Roma,Bonifico,2.0
+10698,1047,Console,Gaming,10,286.32,2025-08-09,Palermo,PayPal,23.0
+10699,1122,Felpa,Abbigliamento,7,964.39,2025-06-01,Palermo,PayPal,6.0
+10700,1026,Giacca,Abbigliamento,7,321.23,2025-09-23,Bari,,17.0
+10701,1176,Tapis Roulant,Sport,6,158.96,2025-09-14,Bari,Bonifico,8.0
+10702,1027,Aspirapolvere,Casa,10,519.42,2025-01-01,Napoli,Contrassegno,8.0
+10703,1123,Felpa,Abbigliamento,10,125.01,2025-11-25,Napoli,Bonifico,29.0
+10704,1040,Aspirapolvere,Casa,6,15.23,2025-09-07,Milano,Bonifico,21.0
+10705,1189,Joystick,Gaming,3,47.99,2025-08-08,Roma,Contrassegno,11.0
+10706,1065,Jeans,Abbigliamento,4,234.64,2025-06-14,Firenze,PayPal,19.0
+10707,1010,Cuffie Gaming,Gaming,7,880.26,2025-02-18,Palermo,Contrassegno,9.0
+10708,1156,Felpa,Abbigliamento,10,126.28,2025-06-03,Palermo,Carta,36.0
+10709,1161,Joystick,Gaming,8,310.1,2025-06-03,Firenze,Carta,31.0
+10710,1091,Manuale Python,Libri,1,635.05,2025-07-01,Palermo,Carta,13.0
+10711,1020,Tostapane,Casa,10,648.24,2025-04-21,Bologna,PayPal,7.0
+10712,1145,Monitor,Elettronica,1,568.65,2025-03-26,Palermo,Contrassegno,40.0
+10713,1020,Aspirapolvere,Casa,1,24.94,2025-07-27,Bologna,Carta,30.0
+10714,1002,Tostapane,Casa,3,796.94,2025-06-28,Roma,Bonifico,0.0
+10715,1022,Smartphone,Elettronica,4,545.89,2025-12-19,Milano,PayPal,5.0
+10716,1062,Giacca,Abbigliamento,7,218.09,2025-10-09,Milano,Contrassegno,22.0
+10717,1011,Felpa,Abbigliamento,2,77.15,2025-05-26,Roma,Bonifico,31.0
+10718,1005,Jeans,Abbigliamento,5,717.54,2025-06-24,Bologna,Carta,23.0
+10719,1193,Monitor,Elettronica,3,509.65,2025-01-21,Firenze,PayPal,21.0
+10720,1022,Cuffie Gaming,Gaming,5,235.1,2025-10-05,Torino,Bonifico,4.0
+10721,1153,Bicicletta,Sport,8,141.59,2025-08-15,Milano,PayPal,38.0
+10722,1020,Giacca,Abbigliamento,6,803.86,2025-12-17,Roma,Contrassegno,23.0
+10723,1188,Romanzo,Libri,9,714.49,2025-05-27,Napoli,Carta,31.0
+10724,1090,Aspirapolvere,Casa,1,581.75,2025-04-15,Roma,Carta,34.0
+10725,1017,Joystick,Gaming,5,312.14,2025-01-12,Torino,PayPal,30.0
+10726,1043,Manubri,Sport,7,81.36,2025-02-16,Palermo,Contrassegno,35.0
+10727,1124,Cuffie Gaming,Gaming,7,384.63,2025-04-14,Roma,Carta,13.0
+10728,1047,Felpa,Abbigliamento,1,417.27,2025-07-10,Palermo,Carta,14.0
+10729,1135,Lampada,Casa,2,131.09,2025-04-13,Torino,Bonifico,10.0
+10730,1100,Tapis Roulant,Sport,6,298.79,2025-12-10,Firenze,,27.0
+10731,1010,Console,Gaming,1,670.81,2025-09-25,Torino,Carta,1.0
+10732,1067,Joystick,Gaming,6,229.62,2025-02-07,Firenze,Contrassegno,21.0
+10733,1118,Thriller,Libri,4,451.16,2025-10-17,Firenze,PayPal,10.0
+10734,1063,Aspirapolvere,Casa,7,883.42,2025-05-01,Bologna,Bonifico,25.0
+10735,1147,Aspirapolvere,Casa,10,541.11,2025-07-03,Bologna,Contrassegno,7.0
+10736,1098,Bicicletta,Sport,7,422.24,2025-07-09,Firenze,Contrassegno,0.0
+10737,1132,Felpa,Abbigliamento,9,720.24,2025-04-21,Bologna,PayPal,40.0
+10738,1134,Jeans,Abbigliamento,1,80.06,2025-08-04,,Contrassegno,40.0
+10739,1110,Lampada,Casa,9,419.44,2025-01-07,Napoli,,36.0
+10740,1106,Jeans,Abbigliamento,10,318.2,2025-12-12,Bari,,17.0
+10741,1159,Thriller,Libri,10,223.78,2025-07-19,,PayPal,36.0
+10742,1057,Felpa,Abbigliamento,7,868.28,2025-07-23,Bari,Contrassegno,18.0
+10743,1145,Manubri,Sport,4,466.37,2025-02-04,Bari,PayPal,7.0
+10744,1124,Manubri,Sport,9,363.41,2025-09-10,Napoli,Carta,9.0
+10745,1004,Laptop,Elettronica,2,104.74,2025-06-04,Napoli,Carta,23.0
+10746,1054,Bicicletta,Sport,6,157.74,2025-11-14,Milano,,0.0
+10747,1010,Bicicletta,Sport,9,634.09,2025-05-02,Palermo,Contrassegno,34.0
+10748,1010,Cuffie Gaming,Gaming,10,572.5,2025-02-23,Bologna,Carta,38.0
+10749,1071,Lampada,Casa,6,444.82,2025-04-01,Torino,Bonifico,39.0
+10750,1198,Giacca,Abbigliamento,10,875.36,2025-07-21,Roma,Bonifico,13.0
+10751,1049,Felpa,Abbigliamento,-1,56.0,2025-07-15,Roma,Bonifico,3.0
+10752,1189,Joystick,Gaming,6,907.27,2025-04-14,Bologna,Bonifico,11.0
+10753,1062,Cuffie Gaming,Gaming,5,197.81,2025-04-19,Napoli,Contrassegno,21.0
+10754,1122,Joystick,Gaming,2,220.11,2025-02-09,Bologna,Contrassegno,26.0
+10755,1005,Manubri,Sport,8,613.75,2025-09-15,Firenze,PayPal,22.0
+10756,1170,Bicicletta,Sport,8,739.47,2025-11-14,Milano,Bonifico,16.0
+10757,1052,Giacca,Abbigliamento,9,335.45,2025-05-18,Bari,Carta,38.0
+10758,1084,Romanzo,Libri,10,350.58,2025-06-20,Bari,PayPal,37.0
+10759,1078,Laptop,Elettronica,10,323.0,2025-06-08,Palermo,PayPal,26.0
+10760,1134,Tostapane,Casa,3,913.91,2025-04-21,Torino,PayPal,22.0
+10761,1152,Bicicletta,Sport,9,793.36,2025-04-27,Roma,PayPal,31.0
+10762,1080,Joystick,Gaming,6,13.16,2025-09-11,,Contrassegno,33.0
+10763,1196,Manuale Python,Libri,2,717.89,2025-10-22,Firenze,Contrassegno,14.0
+10764,1154,Romanzo,Libri,8,337.57,2025-12-27,Palermo,Bonifico,5.0
+10765,1025,Jeans,Abbigliamento,4,54.76,2025-08-23,Bologna,Contrassegno,36.0
+10766,1137,Monitor,Elettronica,6,585.35,2025-01-10,Napoli,PayPal,18.0
+10767,1131,Joystick,Gaming,6,882.41,2025-06-25,Torino,Contrassegno,19.0
+10768,1043,Thriller,Libri,1,505.54,2025-03-20,Firenze,PayPal,2.0
+10769,1054,Jeans,Abbigliamento,9,490.24,2025-06-03,Milano,PayPal,22.0
+10770,1142,Console,Gaming,6,310.21,2025-10-23,Roma,PayPal,25.0
+10771,1124,Romanzo,Libri,9,620.94,2025-11-17,Napoli,PayPal,16.0
+10772,1022,Giacca,Abbigliamento,5,661.59,2025-06-05,Firenze,Contrassegno,11.0
+10773,1061,Laptop,Elettronica,10,616.78,2025-02-03,Firenze,Contrassegno,33.0
+10774,1052,Lampada,Casa,9,597.68,2025-02-09,Palermo,PayPal,33.0
+10775,1147,Console,Gaming,3,151.3,2025-05-10,Torino,Contrassegno,2.0
+10776,1130,Lampada,Casa,6,99.98,2025-11-06,Bologna,PayPal,35.0
+10777,1124,Manuale Python,Libri,1,759.02,2025-02-11,Milano,Bonifico,40.0
+10778,1016,Giacca,Abbigliamento,3,310.81,2025-09-19,Roma,Bonifico,2.0
+10779,1046,Manuale Python,Libri,4,45.47,2025-01-05,Napoli,PayPal,33.0
+10780,1020,Monitor,Elettronica,8,388.79,2025-08-16,Bologna,Carta,
+10781,1116,Cuffie Gaming,Gaming,4,550.75,2025-11-25,Roma,Carta,18.0
+10782,1194,Tablet,Elettronica,5,742.83,2025-12-09,Firenze,Contrassegno,11.0
+10783,1186,Laptop,Elettronica,5,660.36,2025-04-03,Bari,Bonifico,21.0
+10784,1109,Console,Gaming,7,357.7,2025-11-26,Palermo,Bonifico,24.0
+10785,1136,Console,Gaming,1,426.33,2025-11-06,Firenze,Contrassegno,28.0
+10786,1169,Manuale Python,Libri,5,41.22,2025-03-02,Firenze,Contrassegno,6.0
+10787,1019,Joystick,Gaming,10,711.9,2025-02-04,Firenze,PayPal,38.0
+10788,1021,Tapis Roulant,Sport,5,921.46,2025-11-04,Firenze,Contrassegno,14.0
+10789,1080,Laptop,Elettronica,5,439.54,2025-04-24,Bologna,Contrassegno,16.0
+10790,1160,Manubri,Sport,10,578.07,2025-01-16,Bologna,Carta,13.0
+10791,1163,Felpa,Abbigliamento,9,365.71,2025-04-11,Firenze,Bonifico,5.0
+10792,1031,Tostapane,Casa,9,826.03,2025-09-24,Bari,Contrassegno,0.0
+10793,1005,Lampada,Casa,4,567.28,2025-08-05,Roma,Bonifico,16.0
+10794,1101,Romanzo,Libri,1,950.16,2025-12-19,Napoli,PayPal,25.0
+10795,1167,Tostapane,Casa,7,828.99,2025-10-21,Bari,PayPal,34.0
+10796,1127,Manuale Python,Libri,5,970.95,2025-03-18,Torino,Contrassegno,
+10797,1199,Console,Gaming,5,126.04,2025-06-16,Roma,Carta,7.0
+10798,1068,Tostapane,Casa,1,437.12,2025-03-29,Palermo,Bonifico,15.0
+10799,1131,Tapis Roulant,Sport,3,399.9,2025-09-03,Milano,Carta,19.0
+10800,1173,Tapis Roulant,Sport,5,607.12,2025-01-21,Bari,PayPal,25.0
+10801,1049,Tostapane,Casa,8,309.93,2025-06-21,Bari,Carta,4.0
+10802,1085,Manubri,Sport,10,382.55,2025-01-21,Milano,Bonifico,21.0
+10803,1176,Aspirapolvere,Casa,7,369.58,2025-04-09,Milano,PayPal,30.0
+10804,1003,Console,Gaming,10,283.73,2025-11-20,Bologna,PayPal,9.0
+10805,1006,Aspirapolvere,Casa,10,60.58,2025-03-09,Roma,PayPal,2.0
+10806,1165,Felpa,Abbigliamento,10,76.69,2025-11-25,Torino,Contrassegno,16.0
+10807,1006,Tapis Roulant,Sport,9,437.39,2025-11-11,Roma,Bonifico,22.0
+10808,1021,Bicicletta,Sport,2,785.01,2025-01-21,Bologna,PayPal,36.0
+10809,1192,Smartphone,Elettronica,9,447.98,2025-11-30,Firenze,Contrassegno,40.0
+10810,1146,Cuffie Gaming,Gaming,6,567.48,2025-07-12,Firenze,Bonifico,40.0
+10811,1055,Aspirapolvere,Casa,5,911.83,2025-04-14,Bari,PayPal,10.0
+10812,1190,Jeans,Abbigliamento,2,501.88,2025-05-07,,Carta,24.0
+10813,1045,Tablet,Elettronica,10,861.13,2025-11-19,Milano,,9.0
+10814,1160,Tapis Roulant,Sport,3,781.18,2025-02-28,Torino,Carta,35.0
+10815,1135,Tapis Roulant,Sport,1,605.59,2025-05-11,Bologna,Bonifico,23.0
+10816,1034,Aspirapolvere,Casa,7,703.09,2025-11-01,Bari,Contrassegno,19.0
+10817,1085,Felpa,Abbigliamento,9,347.25,2025-11-23,Torino,Carta,40.0
+10818,1061,Console,Gaming,10,677.51,2025-02-03,Firenze,Contrassegno,7.0
+10819,1016,Cuffie Gaming,Gaming,7,5.27,2025-12-12,Firenze,PayPal,16.0
+10820,1056,Manuale Python,Libri,4,407.1,2025-01-16,Palermo,Carta,37.0
+10821,1039,Smartphone,Elettronica,8,983.69,2025-01-07,Bologna,PayPal,11.0
+10822,1082,Manubri,Sport,8,567.16,2025-05-11,Torino,Contrassegno,32.0
+10823,1187,Joystick,Gaming,6,330.85,2025-03-26,Bologna,Bonifico,
+10824,1000,Jeans,Abbigliamento,4,304.0,2025-06-17,Bologna,Carta,26.0
+10825,1172,Laptop,Elettronica,7,280.7,2025-05-18,Palermo,PayPal,6.0
+10826,1098,Smartphone,Elettronica,6,436.3,2025-03-14,Bari,Contrassegno,32.0
+10827,1122,Giacca,Abbigliamento,3,19.63,2025-05-25,Milano,Carta,4.0
+10828,1168,Bicicletta,Sport,4,966.04,2025-12-08,Bologna,Bonifico,26.0
+10829,1148,Smartphone,Elettronica,9,260.85,2025-10-01,Roma,Carta,9.0
+10830,1155,Console,Gaming,5,672.97,2025-08-02,Milano,Bonifico,18.0
+10831,1102,Romanzo,Libri,1,458.94,2025-04-11,Torino,Contrassegno,28.0
+10832,1081,Joystick,Gaming,5,819.36,2025-09-20,Milano,PayPal,
+10833,1110,Tablet,Elettronica,9,827.4,2025-04-14,Napoli,Contrassegno,22.0
+10834,1062,Manuale Python,Libri,6,59.03,2025-01-26,Roma,Bonifico,39.0
+10835,1008,Manubri,Sport,3,452.43,2025-08-19,Bari,PayPal,
+10836,1145,Manuale Python,Libri,3,601.51,2025-06-26,Palermo,Carta,23.0
+10837,1137,Giacca,Abbigliamento,7,76.9,2025-06-22,Bari,PayPal,9.0
+10838,1157,Felpa,Abbigliamento,8,974.46,2025-01-25,,Carta,19.0
+10839,1104,Lampada,Casa,7,718.4,2025-12-22,Firenze,Carta,16.0
+10840,1038,Tapis Roulant,Sport,4,941.8,2025-11-06,Bari,PayPal,3.0
+10841,1184,Tapis Roulant,Sport,10,662.51,2025-04-04,Roma,Bonifico,36.0
+10842,1064,Cuffie Gaming,Gaming,4,496.3,2025-10-31,Milano,Bonifico,19.0
+10843,1119,Lampada,Casa,2,171.07,2025-09-24,Bologna,Bonifico,0.0
+10844,1172,Tapis Roulant,Sport,1,406.48,2025-02-11,Bologna,Contrassegno,21.0
+10845,1166,Laptop,Elettronica,8,814.07,2025-05-26,Milano,PayPal,5.0
+10846,1098,Joystick,Gaming,7,184.2,2025-04-21,Napoli,Bonifico,7.0
+10847,1182,Tapis Roulant,Sport,1,446.18,2025-07-24,Bari,PayPal,20.0
+10848,1193,Lampada,Casa,2,18.68,2025-11-24,Torino,Carta,29.0
+10849,1113,Monitor,Elettronica,3,502.67,2025-04-07,Torino,Contrassegno,4.0
+10850,1164,Aspirapolvere,Casa,8,923.83,2025-08-22,Palermo,Contrassegno,9.0
+10851,1149,Romanzo,Libri,8,432.67,2025-12-03,Roma,Carta,32.0
+10852,1059,Console,Gaming,4,24.83,2025-01-15,Torino,,22.0
+10853,1105,Console,Gaming,9,613.14,2025-06-29,Roma,PayPal,11.0
+10854,1192,Monitor,Elettronica,8,715.33,2025-01-30,Palermo,Contrassegno,3.0
+10855,1128,Manubri,Sport,9,227.51,2025-01-02,Napoli,Contrassegno,1.0
+10856,1136,Romanzo,Libri,6,202.16,2025-04-16,Palermo,,4.0
+10857,1134,Romanzo,Libri,5,248.41,2025-05-02,Milano,Carta,22.0
+10858,1177,Jeans,Abbigliamento,5,647.31,2025-11-26,Palermo,,38.0
+10859,1048,Jeans,Abbigliamento,8,258.09,2025-06-20,Bari,PayPal,29.0
+10860,1061,Giacca,Abbigliamento,4,576.48,2025-04-24,,Bonifico,19.0
+10861,1073,Jeans,Abbigliamento,7,325.13,2025-12-28,Palermo,Contrassegno,
+10862,1189,Manubri,Sport,8,831.55,2025-03-25,Bari,,27.0
+10863,1006,Giacca,Abbigliamento,1,513.13,2025-05-26,Bari,Carta,9.0
+10864,1103,Felpa,Abbigliamento,10,245.1,2025-08-02,Napoli,Bonifico,18.0
+10865,1040,Tapis Roulant,Sport,7,184.69,2025-08-21,Roma,Carta,
+10866,1188,Tapis Roulant,Sport,4,924.64,2025-11-29,Napoli,Contrassegno,26.0
+10867,1039,Aspirapolvere,Casa,2,64.4,2025-01-20,Bari,Contrassegno,14.0
+10868,1108,Monitor,Elettronica,3,497.65,2025-06-28,Firenze,Carta,4.0
+10869,1186,Joystick,Gaming,7,611.5,2025-07-10,Torino,Bonifico,37.0
+10870,1190,Jeans,Abbigliamento,4,886.7,2025-04-09,Palermo,PayPal,36.0
+10871,1085,Bicicletta,Sport,2,145.15,2025-09-27,Torino,,13.0
+10872,1046,Lampada,Casa,4,580.31,2025-08-31,Napoli,Bonifico,9.0
+10873,1003,Tapis Roulant,Sport,8,804.05,2025-11-04,Roma,Bonifico,7.0
+10874,1025,Tapis Roulant,Sport,1,241.96,2025-01-01,Roma,Carta,2.0
+10875,1063,Console,Gaming,3,912.83,2025-12-01,Palermo,Carta,25.0
+10876,1078,Manuale Python,Libri,5,944.97,2025-06-03,Bari,PayPal,30.0
+10877,1092,Jeans,Abbigliamento,3,296.27,2025-03-12,Milano,Contrassegno,8.0
+10878,1038,Manuale Python,Libri,7,942.87,2025-06-22,Torino,Carta,36.0
+10879,1139,Jeans,Abbigliamento,10,596.3,2025-09-15,Firenze,Bonifico,21.0
+10880,1030,Cuffie Gaming,Gaming,6,810.23,2025-11-04,Torino,Carta,24.0
+10881,1119,Cuffie Gaming,Gaming,6,17.45,2025-11-10,Torino,PayPal,8.0
+10882,1006,Manuale Python,Libri,10,150.45,2025-06-20,Torino,PayPal,11.0
+10883,1163,Manuale Python,Libri,9,852.81,2025-02-11,Bologna,Contrassegno,2.0
+10884,1057,Manubri,Sport,4,854.48,2025-04-11,,Carta,18.0
+10885,1167,Lampada,Casa,2,532.66,2025-12-17,Bologna,Bonifico,2.0
+10886,1195,Cuffie Gaming,Gaming,8,547.97,2025-01-12,Roma,Bonifico,16.0
+10887,1182,Lampada,Casa,6,614.13,2025-08-17,Bologna,PayPal,0.0
+10888,1059,Manuale Python,Libri,9,639.93,2025-12-27,Napoli,Bonifico,4.0
+10889,1144,Manubri,Sport,9,464.37,2025-01-29,Palermo,Carta,31.0
+10890,1174,Lampada,Casa,7,998.66,2025-12-03,Napoli,Bonifico,23.0
+10891,1093,Jeans,Abbigliamento,2,432.66,2025-03-06,Milano,PayPal,21.0
+10892,1060,Manubri,Sport,6,784.68,2025-09-01,Milano,Contrassegno,38.0
+10893,1130,Laptop,Elettronica,4,769.59,2025-07-18,Bologna,PayPal,24.0
+10894,1140,Giacca,Abbigliamento,8,368.86,2025-11-09,Bari,Bonifico,1.0
+10895,1157,Jeans,Abbigliamento,9,71.11,2025-11-02,Bologna,PayPal,20.0
+10896,1141,Giacca,Abbigliamento,10,238.39,2025-04-28,Milano,Bonifico,32.0
+10897,1050,Cuffie Gaming,Gaming,6,217.98,2025-11-03,Palermo,Contrassegno,21.0
+10898,1048,Manubri,Sport,6,331.44,2025-12-02,Bari,Carta,
+10899,1030,Manubri,Sport,7,297.63,2025-10-11,Firenze,PayPal,17.0
+10900,1038,Jeans,Abbigliamento,4,313.59,2025-12-19,,Bonifico,40.0
+10901,1164,Bicicletta,Sport,5,947.78,2025-02-25,Torino,PayPal,6.0
+10902,1006,Giacca,Abbigliamento,3,741.39,2025-08-09,,Contrassegno,17.0
+10903,1005,Thriller,Libri,2,949.94,2025-05-01,,Bonifico,38.0
+10904,1157,Thriller,Libri,10,901.12,2025-03-15,Palermo,PayPal,9.0
+10905,1125,Manuale Python,Libri,5,916.28,2025-06-16,Bari,Contrassegno,39.0
+10906,1098,Smartphone,Elettronica,10,878.97,2025-12-31,Milano,Contrassegno,9.0
+10907,1156,Giacca,Abbigliamento,6,25.77,2025-10-30,Torino,PayPal,24.0
+10908,1107,Manuale Python,Libri,7,396.1,2025-07-16,Bari,PayPal,0.0
+10909,1099,Felpa,Abbigliamento,4,363.78,2025-10-02,Torino,PayPal,27.0
+10910,1100,Cuffie Gaming,Gaming,9,589.82,2025-12-10,Napoli,Carta,7.0
+10911,1060,Bicicletta,Sport,10,703.9,2025-02-02,Palermo,Contrassegno,17.0
+10912,1089,Felpa,Abbigliamento,10,822.07,2025-01-18,Bari,PayPal,15.0
+10913,1061,Smartphone,Elettronica,3,626.54,2025-09-27,Palermo,PayPal,37.0
+10914,1155,Manuale Python,Libri,2,315.62,2025-12-13,Milano,Contrassegno,33.0
+10915,1155,Manuale Python,Libri,9,928.12,2025-05-19,Milano,Bonifico,15.0
+10916,1103,Cuffie Gaming,Gaming,3,980.93,2025-10-26,Bari,Contrassegno,20.0
+10917,1018,Smartphone,Elettronica,9,903.95,2025-01-26,Napoli,Carta,13.0
+10918,1080,Giacca,Abbigliamento,4,798.32,2025-05-01,Bologna,Contrassegno,32.0
+10919,1133,Felpa,Abbigliamento,6,898.47,2025-05-22,Milano,Bonifico,40.0
+10920,1015,Smartphone,Elettronica,5,272.48,2025-10-30,Palermo,Bonifico,3.0
+10921,1059,Tostapane,Casa,9,747.08,2025-12-23,Firenze,PayPal,14.0
+10922,1172,Cuffie Gaming,Gaming,5,934.75,2025-07-11,Firenze,,36.0
+10923,1112,Monitor,Elettronica,5,127.16,2025-08-23,Milano,Bonifico,18.0
+10924,1038,Cuffie Gaming,Gaming,1,381.02,2025-04-18,Bari,PayPal,11.0
+10925,1091,Felpa,Abbigliamento,4,349.21,2025-12-06,,,38.0
+10926,1149,Lampada,Casa,7,968.3,2025-03-11,Bologna,Contrassegno,15.0
+10927,1182,Jeans,Abbigliamento,7,622.75,2025-12-15,Torino,PayPal,17.0
+10928,1196,Tapis Roulant,Sport,9,68.68,2025-07-08,Napoli,Contrassegno,15.0
+10929,1016,Felpa,Abbigliamento,3,275.77,2025-01-28,Roma,PayPal,22.0
+10930,1060,Jeans,Abbigliamento,1,529.19,2025-06-22,Firenze,Carta,32.0
+10931,1080,Bicicletta,Sport,8,180.27,2025-11-29,Firenze,Contrassegno,18.0
+10932,1009,Lampada,Casa,8,835.5,2025-04-08,Palermo,,27.0
+10933,1174,Joystick,Gaming,8,123.59,2025-05-07,Milano,Contrassegno,0.0
+10934,1136,Cuffie Gaming,Gaming,5,599.07,2025-01-24,Torino,PayPal,2.0
+10935,1011,Manuale Python,Libri,3,282.42,2025-03-22,Palermo,Carta,5.0
+10936,1141,Romanzo,Libri,6,858.35,2025-11-07,Napoli,Bonifico,6.0
+10937,1079,Thriller,Libri,1,394.3,2025-02-12,Roma,Carta,12.0
+10938,1141,Giacca,Abbigliamento,2,954.48,2025-01-09,Firenze,PayPal,39.0
+10939,1176,Tostapane,Casa,1,431.05,2025-10-18,,Carta,
+10940,1070,Tablet,Elettronica,9,706.55,2025-12-27,Torino,Carta,6.0
+10941,1077,Romanzo,Libri,4,683.41,2025-02-05,Napoli,Contrassegno,28.0
+10942,1165,Aspirapolvere,Casa,1,22.86,2025-03-04,Roma,Carta,
+10943,1003,Thriller,Libri,9,793.42,2025-09-07,Bologna,Carta,11.0
+10944,1134,Tostapane,Casa,3,701.19,2025-08-17,Bari,PayPal,38.0
+10945,1097,Tostapane,Casa,10,891.11,2025-05-27,Bari,Contrassegno,23.0
+10946,1114,Bicicletta,Sport,2,634.53,2025-09-17,Bologna,Contrassegno,37.0
+10947,1178,Cuffie Gaming,Gaming,3,169.55,2025-12-26,Roma,Contrassegno,6.0
+10948,1144,Thriller,Libri,5,466.32,2025-07-13,,Contrassegno,
+10949,1121,Aspirapolvere,Casa,6,225.47,2025-02-05,Roma,Bonifico,6.0
+10950,1040,Tablet,Elettronica,10,337.79,2025-11-21,Torino,Carta,31.0
+10951,1112,Thriller,Libri,3,27.47,2025-05-24,Firenze,Carta,33.0
+10952,1185,Smartphone,Elettronica,10,716.96,2025-07-18,Palermo,Carta,8.0
+10953,1162,Joystick,Gaming,8,698.36,2025-08-03,Bari,Carta,7.0
+10954,1078,Manuale Python,Libri,3,956.26,2025-04-12,Torino,PayPal,21.0
+10955,1062,Jeans,Abbigliamento,5,683.62,2025-08-20,Bologna,Carta,4.0
+10956,1127,Console,Gaming,5,736.07,2025-06-13,Bari,Bonifico,28.0
+10957,1059,Monitor,Elettronica,6,229.35,2025-09-15,Bologna,Bonifico,5.0
+10958,1181,Manubri,Sport,6,85.69,2025-04-10,Palermo,Contrassegno,39.0
+10959,1140,Monitor,Elettronica,4,876.65,2025-03-01,Torino,PayPal,12.0
+10960,1011,Monitor,Elettronica,8,785.29,2025-10-05,Milano,PayPal,33.0
+10961,1035,Manubri,Sport,10,492.09,2025-04-02,Roma,PayPal,21.0
+10962,1147,Console,Gaming,6,238.06,2025-08-30,Firenze,Bonifico,37.0
+10963,1126,Manubri,Sport,7,352.89,2025-12-10,Palermo,Contrassegno,30.0
+10964,1101,Laptop,Elettronica,4,344.95,2025-11-23,Roma,Bonifico,5.0
+10965,1018,Console,Gaming,5,842.8,2025-05-22,Torino,Bonifico,
+10966,1155,Tapis Roulant,Sport,7,364.96,2025-04-26,Napoli,Contrassegno,5.0
+10967,1078,Felpa,Abbigliamento,2,654.13,2025-12-09,Bologna,Bonifico,17.0
+10968,1172,Monitor,Elettronica,1,819.05,2025-09-28,Milano,,30.0
+10969,1152,Manuale Python,Libri,8,860.33,2025-01-25,Napoli,Carta,12.0
+10970,1040,Jeans,Abbigliamento,1,255.91,2025-03-22,Roma,PayPal,7.0
+10971,1143,Cuffie Gaming,Gaming,3,274.34,2025-10-27,Bari,Contrassegno,1.0
+10972,1004,Lampada,Casa,2,78.69,2025-11-23,Milano,Carta,11.0
+10973,1108,Smartphone,Elettronica,1,322.11,2025-01-04,Palermo,Carta,37.0
+10974,1083,Manuale Python,Libri,1,552.79,2025-05-29,,Bonifico,32.0
+10975,1156,Manubri,Sport,4,416.58,2025-09-26,,Contrassegno,23.0
+10976,1018,Jeans,Abbigliamento,10,334.72,2025-11-11,Palermo,Carta,22.0
+10977,1098,Felpa,Abbigliamento,2,730.37,2025-04-27,Firenze,Bonifico,19.0
+10978,1101,Console,Gaming,4,679.86,2025-09-28,Bologna,Bonifico,31.0
+10979,1128,Tapis Roulant,Sport,3,171.78,2025-08-21,Palermo,Carta,36.0
+10980,1182,Tapis Roulant,Sport,1,457.27,2025-05-17,Milano,Bonifico,8.0
+10981,1172,Cuffie Gaming,Gaming,9,966.09,2025-02-02,Firenze,Contrassegno,
+10982,1091,Tapis Roulant,Sport,4,594.38,2025-11-27,Palermo,Carta,34.0
+10983,1142,Manubri,Sport,10,356.62,2025-08-02,Roma,Carta,2.0
+10984,1056,Felpa,Abbigliamento,1,15.94,2025-05-15,Firenze,,
+10985,1149,Romanzo,Libri,4,752.82,2025-03-18,Palermo,Bonifico,27.0
+10986,1125,Tablet,Elettronica,10,397.62,2025-05-07,Bologna,Contrassegno,33.0
+10987,1126,Romanzo,Libri,8,33.73,2025-07-29,,PayPal,
+10988,1105,Laptop,Elettronica,3,142.88,2025-05-04,Firenze,Carta,30.0
+10989,1015,Tapis Roulant,Sport,8,876.31,2025-12-02,Bari,Contrassegno,40.0
+10990,1177,Smartphone,Elettronica,8,192.71,2025-08-22,Roma,Carta,37.0
+10991,1021,Laptop,Elettronica,2,169.51,2025-04-24,Milano,Bonifico,40.0
+10992,1074,Jeans,Abbigliamento,7,948.84,2025-03-27,Napoli,Carta,34.0
+10993,1014,Giacca,Abbigliamento,4,54.97,2025-06-18,Bologna,Contrassegno,32.0
+10994,1110,Lampada,Casa,6,90.38,2025-01-19,Napoli,Contrassegno,
+10995,1163,Romanzo,Libri,6,734.3,2025-11-03,Firenze,PayPal,
+10996,1015,Lampada,Casa,8,61.59,2025-11-03,Bologna,Bonifico,40.0
+10997,1051,Manubri,Sport,8,530.83,2025-07-25,Palermo,Bonifico,7.0
+10998,1112,Monitor,Elettronica,3,297.54,2025-01-23,Bologna,PayPal,21.0
+10999,1070,Tostapane,Casa,7,382.52,2025-12-03,Bologna,Carta,0.0
+11000,1159,Console,Gaming,10,423.52,2025-09-27,Milano,Contrassegno,31.0
+10522,1047,Console,Gaming,3,160.25,2025-12-12,,PayPal,7.0
+10738,1134,Jeans,Abbigliamento,1,80.06,2025-08-04,,Contrassegno,40.0
+10741,1159,Thriller,Libri,10,223.78,2025-07-19,,PayPal,36.0
+10661,1111,Tapis Roulant,Sport,3,515.8,2025-04-19,,Bonifico,26.0
+10412,1065,Felpa,Abbigliamento,4,783.93,2025-04-04,,,38.0
+10679,1200,Jeans,Abbigliamento,6,755.2,2025-02-10,,PayPal,23.0
+10627,1155,Console,Gaming,4,185.14,2025-05-25,,Contrassegno,10.0
+10514,1035,Console,Gaming,7,860.36,2025-07-04,,Contrassegno,40.0
+10860,1061,Giacca,Abbigliamento,4,576.48,2025-04-24,,Bonifico,19.0
+10137,1166,Tostapane,Casa,3,915.16,2025-06-09,,Bonifico,14.0
+10812,1190,Jeans,Abbigliamento,2,501.88,2025-05-07,,Carta,24.0
+10077,1155,Manubri,Sport,7,275.62,2025-01-05,,PayPal,2.0
+10637,1004,Romanzo,Libri,4,505.02,2025-05-14,,Carta,30.0
+10974,1083,Manuale Python,Libri,1,552.79,2025-05-29,,Bonifico,32.0
+10939,1176,Tostapane,Casa,1,431.05,2025-10-18,,Carta,
+10900,1038,Jeans,Abbigliamento,4,313.59,2025-12-19,,Bonifico,40.0
+10281,1072,Lampada,Casa,4,643.03,2025-07-01,,PayPal,24.0
+10884,1057,Manubri,Sport,4,854.48,2025-04-11,,Carta,18.0
+10762,1080,Joystick,Gaming,6,13.16,2025-09-11,,Contrassegno,33.0
+10320,1193,Jeans,Abbigliamento,6,860.33,2025-09-30,,Carta,2.0
